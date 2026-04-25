@@ -54,7 +54,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -71,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  X(twitter)          : "https://x.com/JunyiZhao1997"
+  twitter          : "JunyiZhao1997"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
