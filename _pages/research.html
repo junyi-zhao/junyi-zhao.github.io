@@ -2,6 +2,7 @@
 title: "Research"
 permalink: /research/
 author_profile: true
+classes: wide
 ---
 
 {% include base_path %}
@@ -19,5 +20,27 @@ My research focuses on human-centered soft electronics and integrated systems fo
 {% assign sorted_research = site.research | sort: "date" | reverse %}
 
 {% for post in sorted_research %}
-  {% include archive-single.html %}
+  <div style="margin-bottom: 4rem;">
+
+    <h2 style="margin-bottom: 1rem;">{{ post.title }}</h2>
+
+    {% if post.header.teaser %}
+      <div style="margin-bottom: 1rem;">
+        <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}" style="max-width: 100%; height: auto;">
+      </div>
+    {% endif %}
+
+    {% if post.excerpt %}
+      <p style="font-size: 1.05em; color: #555; margin-bottom: 1rem;">
+        {{ post.excerpt }}
+      </p>
+    {% endif %}
+
+    <div>
+      {{ post.content }}
+    </div>
+
+  </div>
+
+  <hr style="margin: 2.5rem 0;">
 {% endfor %}
