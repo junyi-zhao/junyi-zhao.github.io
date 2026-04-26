@@ -5,7 +5,7 @@ collection: research
 permalink: /research/3d-etextile/
 ---
 
-![3D E-textile systems for exercise physiology and maternal monitoring](/images/research/3d-etextile.jpg)
+![3D E-textile systems for exercise physiology and maternal monitoring](/images/research/figure_3D_textile.png)
 
 **Junyi Zhao**, et al.  
 *Waterproof and gel-free 3D E-textile systems for exercise physiology and clinical maternal health monitoring.*  

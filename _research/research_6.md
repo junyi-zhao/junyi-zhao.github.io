@@ -5,7 +5,7 @@ collection: research
 permalink: /research/synaptic-transistor/
 ---
 
-![Flexible CNT synaptic transistor for neurological E-skin](/images/research/synaptic-transistor.jpg)
+![Flexible CNT synaptic transistor for neurological E-skin](/images/research/figure_Synaptic_transistors.png)
 
 H. Wan, Y. Cao, L. W. Lo, **J. Zhao**, et al.  
 *Flexible carbon nanotube synaptic transistor for neurological electronic skin applications.*  
