@@ -2,7 +2,6 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-classes: wide
 ---
 
 {% include base_path %}
@@ -10,45 +9,64 @@ classes: wide
 <style>
   .research-entry {
     margin-bottom: 4rem;
+    max-width: 100%;
   }
 
   .research-row {
     display: flex;
-    gap: 2rem;
+    gap: 1.5rem;
     align-items: flex-start;
     margin-top: 1rem;
+    max-width: 100%;
+    overflow: hidden;
   }
 
   .research-image {
-    flex: 0 0 280px;
-    max-width: 280px;
+    flex: 0 0 180px;
+    max-width: 180px;
   }
 
   .research-image img {
     width: 100%;
+    max-height: 170px;
+    object-fit: contain;
     height: auto;
     display: block;
     border-radius: 6px;
+    background: #fff;
   }
 
   .research-text {
-    flex: 1;
-    font-size: 1.15rem;
+    flex: 1 1 auto;
+    min-width: 0;
+    max-width: 100%;
+    font-size: 1.08rem;
     line-height: 1.8;
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 
   .research-text p {
     margin-bottom: 1rem;
   }
 
+  .research-text img {
+    max-width: 100%;
+    max-height: 220px;
+    object-fit: contain;
+    height: auto;
+    display: block;
+    margin: 1rem 0;
+  }
+
   .research-title {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.4rem;
   }
 
   .research-excerpt {
-    font-size: 1.05rem;
-    color: #555;
-    margin-bottom: 1rem;
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 0.8rem;
   }
 
   .research-divider {
@@ -61,8 +79,8 @@ classes: wide
     }
 
     .research-image {
-      max-width: 100%;
       flex: none;
+      max-width: 220px;
     }
 
     .research-text {
