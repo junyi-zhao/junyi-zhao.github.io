@@ -7,120 +7,112 @@ author_profile: true
 {% include base_path %}
 
 <style>
-  .research-entry {
-    margin-bottom: 4rem;
-    max-width: 100%;
+  .research-page-wrap {
+    max-width: 860px;
+    margin: 0 auto;
   }
 
-  .research-row {
-    display: flex;
-    gap: 1.5rem;
-    align-items: flex-start;
-    margin-top: 1rem;
-    max-width: 100%;
-    overflow: hidden;
-  }
-
-  .research-image {
-    flex: 0 0 180px;
-    max-width: 180px;
-  }
-
-  .research-image img {
-    width: 100%;
-    max-height: 170px;
-    object-fit: contain;
-    height: auto;
-    display: block;
-    border-radius: 6px;
-    background: #fff;
-  }
-
-  .research-text {
-    flex: 1 1 auto;
-    min-width: 0;
-    max-width: 100%;
-    font-size: 1.08rem;
+  .research-intro {
+    margin-bottom: 2rem;
+    font-size: 1.03rem;
     line-height: 1.8;
-    overflow-wrap: anywhere;
-    word-break: break-word;
   }
 
-  .research-text p {
-    margin-bottom: 1rem;
+  .research-entry {
+    margin: 2.5rem 0 3rem 0;
   }
 
-  .research-text img {
-    max-width: 100%;
-    max-height: 220px;
-    object-fit: contain;
-    height: auto;
-    display: block;
-    margin: 1rem 0;
-  }
-
-  .research-title {
-    margin-bottom: 0.4rem;
-  }
-
-  .research-excerpt {
-    font-size: 1rem;
-    color: #666;
+  .research-entry h2 {
     margin-bottom: 0.8rem;
+    line-height: 1.35;
+  }
+
+  .research-group {
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    font-size: 1.05rem;
+    font-weight: 600;
+  }
+
+  .research-content {
+    font-size: 1.02rem;
+    line-height: 1.85;
+  }
+
+  .research-content p {
+    margin-bottom: 0.9rem;
+  }
+
+  .research-content img {
+    display: block;
+    margin: 1.2rem auto;
+    max-width: 78%;
+    max-height: 320px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+  }
+
+  .research-content strong {
+    font-weight: 700;
   }
 
   .research-divider {
-    margin: 2.5rem 0;
+    border: 0;
+    border-top: 1px solid #e3e3e3;
+    margin: 2rem 0 2.5rem 0;
   }
 
   @media (max-width: 900px) {
-    .research-row {
-      flex-direction: column;
+    .research-page-wrap {
+      max-width: 100%;
     }
 
-    .research-image {
-      flex: none;
-      max-width: 220px;
-    }
-
-    .research-text {
-      font-size: 1rem;
+    .research-content img {
+      max-width: 100%;
+      max-height: 240px;
     }
   }
 </style>
+
+<div class="research-page-wrap">
 
 # Research
 
 ## Soft electronics
 
-### The nexus of energy, healthcare, and human–machine interactions
+##### The nexus of energy, healthcare, and human–machine interactions
 
+<div class="research-intro">
 My research focuses on human-centered soft electronics and integrated systems for sensing, perception, and feedback, spanning wearable bioelectronics, e-textiles, soft sensors, and flexible optoelectronics.
+</div>
 
----
-
-{% assign sorted_research = site.research | sort: "date" %}
+{% assign sorted_research = site.research | sort: "order" %}
 
 {% for post in sorted_research %}
+  {% assign current_group = post.group | default: "" %}
+  {% assign previous_index = forloop.index0 | minus: 1 %}
+
+  {% if forloop.first %}
+    {% assign previous_group = "" %}
+  {% else %}
+    {% assign previous_group = sorted_research[previous_index].group | default: "" %}
+  {% endif %}
+
+  {% if current_group != "" and current_group != previous_group %}
+    <div class="research-group">> {{ current_group }}</div>
+  {% endif %}
+
   <div class="research-entry">
-    <h2 class="research-title">{{ post.title }}</h2>
-
-    {% if post.excerpt %}
-      <p class="research-excerpt">{{ post.excerpt }}</p>
-    {% endif %}
-
-    <div class="research-row">
-      {% if post.header.teaser %}
-        <div class="research-image">
-          <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}">
-        </div>
-      {% endif %}
-
-      <div class="research-text">
-        {{ post.content }}
-      </div>
+    <h5>{{ post.title }}</h5>
+    <div class="research-content">
+      {{ post.content }}
     </div>
   </div>
 
-  <hr class="research-divider">
+  {% unless forloop.last %}
+    <hr class="research-divider">
+  {% endunless %}
 {% endfor %}
+
+</div>
