@@ -1,0 +1,35 @@
+---
+title: "Research"
+permalink: /research/
+author_profile: true
+classes: wide
+---
+
+{% include base_path %}
+
+# Research
+
+## Soft electronics
+
+### The nexus of energy, healthcare, and human–machine interactions
+
+My research focuses on human-centered soft electronics and integrated systems for sensing, perception, and feedback.
+
+---
+
+{% assign sorted_research = site.research | sort: "date" | reverse %}
+{% for post in sorted_research %}
+  <div style="margin-bottom: 3rem;">
+    <h2>{{ post.title }}</h2>
+
+    {% if post.header.teaser %}
+      <p>
+        <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}" style="max-width: 100%; height: auto;">
+      </p>
+    {% endif %}
+
+    {{ post.content }}
+  </div>
+
+  <hr>
+{% endfor %}

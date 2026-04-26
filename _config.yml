@@ -215,49 +215,41 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  activities:
     output: true
     permalink: /:collection/:path/
-  talks:
+  awards:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
+  gallery:
+    output: true
+    permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _research
   - scope:
       path: ""
-      type: posts
+      type: research
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      comments: false
+      share: false
   # _publications
   - scope:
       path: ""
@@ -265,26 +257,50 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
+  # _activities
   - scope:
       path: ""
-      type: portfolio
+      type: activities
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
+      comments: true
+  # _awards
   - scope:
       path: ""
-      type: talks
+      type: awards
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _gallery
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: single
       author_profile: true
       share: true
 
+  # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
