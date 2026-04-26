@@ -3,6 +3,8 @@ title: "Printed perovskite LEDs on elastomer substrates"
 excerpt: "Inkjet-printed perovskite light-emitting diodes on elastic substrates for wearable and deformable optoelectronics."
 collection: research
 permalink: /research/perovskite-leds/
+header:
+  teaser: /images/research/figure_Printed_perovskite_LEDs.png
 ---
 
 ![Printed perovskite LEDs](/images/research/figure_Printed_perovskite_LEDs.png)

@@ -3,6 +3,8 @@ title: "Handwriting perovskite optoelectronic devices on diverse substrates"
 excerpt: "A versatile handwriting strategy for perovskite optoelectronic devices on paper, textiles, plastics, elastomers, and three-dimensional objects."
 collection: research
 permalink: /research/handwriting-perovskite/
+header:
+  teaser: /images/research/figure_Hand_writing_perovskite.png
 ---
 
 ![Handwriting perovskite optoelectronic devices on diverse substrates](/images/research/figure_Hand_writing_perovskite.png)
