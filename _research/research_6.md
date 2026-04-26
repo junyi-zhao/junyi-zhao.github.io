@@ -3,8 +3,6 @@ title: "Flexible CNT synaptic transistor for neurological E-skin"
 excerpt: "Flexible carbon nanotube synaptic transistors for neurological electronic skin applications."
 collection: research
 permalink: /research/synaptic-transistor/
-header:
-  teaser: /images/research/figure_Synaptic_transistors.png
 ---
 
 ![Flexible CNT synaptic transistor for neurological E-skin](/images/research/figure_Synaptic_transistors.png)

@@ -7,6 +7,70 @@ classes: wide
 
 {% include base_path %}
 
+<style>
+  .research-entry {
+    margin-bottom: 4rem;
+  }
+
+  .research-row {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-top: 1rem;
+  }
+
+  .research-image {
+    flex: 0 0 280px;
+    max-width: 280px;
+  }
+
+  .research-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 6px;
+  }
+
+  .research-text {
+    flex: 1;
+    font-size: 1.15rem;
+    line-height: 1.8;
+  }
+
+  .research-text p {
+    margin-bottom: 1rem;
+  }
+
+  .research-title {
+    margin-bottom: 0.5rem;
+  }
+
+  .research-excerpt {
+    font-size: 1.05rem;
+    color: #555;
+    margin-bottom: 1rem;
+  }
+
+  .research-divider {
+    margin: 2.5rem 0;
+  }
+
+  @media (max-width: 900px) {
+    .research-row {
+      flex-direction: column;
+    }
+
+    .research-image {
+      max-width: 100%;
+      flex: none;
+    }
+
+    .research-text {
+      font-size: 1rem;
+    }
+  }
+</style>
+
 # Research
 
 ## Soft electronics
@@ -20,27 +84,25 @@ My research focuses on human-centered soft electronics and integrated systems fo
 {% assign sorted_research = site.research | sort: "date" | reverse %}
 
 {% for post in sorted_research %}
-  <div style="margin-bottom: 4rem;">
-
-    <h2 style="margin-bottom: 1rem;">{{ post.title }}</h2>
-
-    {% if post.header.teaser %}
-      <div style="margin-bottom: 1rem;">
-        <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}" style="max-width: 100%; height: auto;">
-      </div>
-    {% endif %}
+  <div class="research-entry">
+    <h2 class="research-title">{{ post.title }}</h2>
 
     {% if post.excerpt %}
-      <p style="font-size: 1.05em; color: #555; margin-bottom: 1rem;">
-        {{ post.excerpt }}
-      </p>
+      <p class="research-excerpt">{{ post.excerpt }}</p>
     {% endif %}
 
-    <div>
-      {{ post.content }}
-    </div>
+    <div class="research-row">
+      {% if post.header.teaser %}
+        <div class="research-image">
+          <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}">
+        </div>
+      {% endif %}
 
+      <div class="research-text">
+        {{ post.content }}
+      </div>
+    </div>
   </div>
 
-  <hr style="margin: 2.5rem 0;">
+  <hr class="research-divider">
 {% endfor %}

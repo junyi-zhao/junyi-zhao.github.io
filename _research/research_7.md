@@ -3,8 +3,6 @@ title: "Flexible CNT synaptic transistor for neurological E-skin"
 excerpt: "Synaptic Transistors for Neurological E-skin Applications."
 collection: research
 permalink: /research/sensory-memory-system/
-header:
-  teaser: /images/research/figure_Synaptic_transistors.png
 ---
 
 ![Flexible CNT synaptic transistor for neurological E-skin](/images/research/figure_Synaptic_transistors.png)
