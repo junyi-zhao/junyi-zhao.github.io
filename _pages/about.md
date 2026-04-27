@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! I’m Junyi ~
-======s
+======
 I am now a Postdoctoral Scholar at Stanford University.
 
 I received my Ph.D. in Electrical Engineering from Washington University in St. Louis (WashU). Previously, I worked as a Research Scientist intern at Meta Reality Labs (formerly Facebook).
