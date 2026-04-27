@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -6,113 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-  .research-page-wrap {
-    max-width: 860px;
-    margin: 0 auto;
-  }
-
-  .research-intro {
-    margin-bottom: 2rem;
-    font-size: 1.03rem;
-    line-height: 1.8;
-  }
-
-  .research-entry {
-    margin: 2.5rem 0 3rem 0;
-  }
-
-  .research-entry h2 {
-    margin-bottom: 0.8rem;
-    line-height: 1.35;
-  }
-
-  .research-group {
-    margin-top: 2.5rem;
-    margin-bottom: 0.75rem;
-    font-size: 1.05rem;
-    font-weight: 600;
-  }
-
-  .research-content {
-    font-size: 1.02rem;
-    line-height: 1.85;
-  }
-
-  .research-content p {
-    margin-bottom: 0.9rem;
-  }
-
-  .research-content img {
-    display: block;
-    margin: 1.2rem auto;
-    max-width: 78%;
-    max-height: 320px;
-    width: auto;
-    height: auto;
-    object-fit: contain;
-  }
-
-  .research-content strong {
-    font-weight: 700;
-  }
-
-  .research-divider {
-    border: 0;
-    border-top: 1px solid #e3e3e3;
-    margin: 2rem 0 2.5rem 0;
-  }
-
-  @media (max-width: 900px) {
-    .research-page-wrap {
-      max-width: 100%;
-    }
-
-    .research-content img {
-      max-width: 100%;
-      max-height: 240px;
-    }
-  }
-</style>
-
-<div class="research-page-wrap">
-
-# Research
-
-## Soft electronics
-
-##### The nexus of energy, healthcare, and human–machine interactions
-
-<div class="research-intro">
-My research focuses on human-centered soft electronics and integrated systems for sensing, perception, and feedback, spanning wearable bioelectronics, e-textiles, soft sensors, and flexible optoelectronics.
-</div>
-
-{% assign sorted_research = site.research | sort: "order" %}
-
-{% for post in sorted_research %}
-  {% assign current_group = post.group | default: "" %}
-  {% assign previous_index = forloop.index0 | minus: 1 %}
-
-  {% if forloop.first %}
-    {% assign previous_group = "" %}
-  {% else %}
-    {% assign previous_group = sorted_research[previous_index].group | default: "" %}
-  {% endif %}
-
-  {% if current_group != "" and current_group != previous_group %}
-    <div class="research-group">> {{ current_group }}</div>
-  {% endif %}
-
-  <div class="research-entry">
-    <h5>{{ post.title }}</h5>
-    <div class="research-content">
-      {{ post.content }}
-    </div>
-  </div>
-
-  {% unless forloop.last %}
-    <hr class="research-divider">
-  {% endunless %}
-{% endfor %}
-
-</div>
+{% if site.research_category %}
+  {% for category in site.research_category %}
+    {% assign title_shown = false %}
+    {% for post in site.research %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2>
+        <hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.research reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
