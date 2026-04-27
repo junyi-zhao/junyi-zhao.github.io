@@ -5,33 +5,45 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% if site.author.googlescholar %}
+<div class="wordwrap">
+  <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+</div>
 {% endif %}
 
+## Journal Papers
 
+> First-author Publications
 
+{% assign first_author_pubs = site.publications | where: "pub_group", "first_author" | sort: "date" | reverse %}
+{% for post in first_author_pubs %}
+[{{ forloop.rindex }}] **{{ post.title }}**  
+{{ post.authors }}  
+{{ post.venue_text }}
+{% if post.paperurl %}[Link]({{ post.paperurl }}){% endif %}
 
+{% endfor %}
+
+> Co-author Publications
+
+{% assign co_author_pubs = site.publications | where: "pub_group", "co_author" | sort: "date" | reverse %}
+{% for post in co_author_pubs %}
+[{{ forloop.rindex }}] **{{ post.title }}**  
+{{ post.authors }}  
+{{ post.venue_text }}
+{% if post.paperurl %}[Link]({{ post.paperurl }}){% endif %}
+
+{% endfor %}
+
+## Patents
+
+{% assign patents = site.publications | where: "pub_group", "patent" | sort: "date" | reverse %}
+{% for post in patents %}
+[{{ forloop.rindex }}] **{{ post.title }}**  
+{{ post.authors }}  
+{{ post.venue_text }}
+{% if post.paperurl and post.paperurl != "" %}[Link]({{ post.paperurl }}){% endif %}
+
+{% endfor %}
