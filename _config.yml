@@ -23,7 +23,7 @@ repository               : "junyi-zhao/junyi-zhao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Junyizhao_headshot.jpg"
+  avatar           : "images/Junyizhao_headshot.jpg"
   name             : "Junyi Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
