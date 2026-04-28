@@ -7,27 +7,103 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Activities</h2>
+<hr />
 
+<h3>Outreach</h3>
 
+<div class="list__item">
+  <article class="archive__item">
+    <h4>2023 BrightPath STEAM Academy Summer Camp (Jul 2023)</h4>
+    <p>
+      <a href="https://brightpathsteam.org">BrightPath STEAM Academy</a>
+      stands as a solution to the problem of increasing Black/African American
+      representation exposure to STEAM (Science, Technology, Engineering, Arts,
+      and Math) for education equality. The program inspires and opens up
+      Black/African American youth to possibilities that have historically
+      seemed unattainable for many.
+    </p>
 
+    <p><img src="/images/activities/brightpath-2023-1.jpg" alt="2023 BrightPath STEAM Academy Summer Camp" style="max-width:700px; width:100%;"></p>
 
+    <p>
+      <img src="/images/activities/brightpath-2023-2.jpg" alt="BrightPath 2023 photo 2" style="max-width:32%; margin-right:1%;">
+      <img src="/images/activities/brightpath-2023-3.jpg" alt="BrightPath 2023 photo 3" style="max-width:32%; margin-right:1%;">
+      <img src="/images/activities/brightpath-2023-4.jpg" alt="BrightPath 2023 photo 4" style="max-width:32%;">
+    </p>
+
+    <p>
+      <img src="/images/activities/brightpath-2023-5.jpg" alt="BrightPath 2023 photo 5" style="max-width:32%; margin-right:1%;">
+      <img src="/images/activities/brightpath-2023-6.jpg" alt="BrightPath 2023 photo 6" style="max-width:32%; margin-right:1%;">
+      <img src="/images/activities/brightpath-2023-7.jpg" alt="BrightPath 2023 photo 7" style="max-width:32%;">
+    </p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <h4>2023 Praxis Week (Jun 2023)</h4>
+    <p>
+      A group of JBS students had a chance to interact with professional
+      scientists, engineers, and physicians during
+      <a href="https://www.jburroughs.org">Praxis Week</a>. Designed and
+      coordinated by STEM liaison Martha Keeley, the program connected 20 upper
+      school students with professionals across fields such as data science,
+      architecture, civil engineering, biotechnology, and robotics engineering.
+    </p>
+    <p>
+      Kudos to these students for spending their first week of summer exploring
+      exciting future possibilities.
+    </p>
+
+    <p><img src="/images/activities/praxis-2023-1.jpg" alt="2023 Praxis Week" style="max-width:700px; width:100%;"></p>
+
+    <p>
+      <img src="/images/activities/praxis-2023-2.jpg" alt="Praxis 2023 photo 2" style="max-width:32%; margin-right:1%;">
+      <img src="/images/activities/praxis-2023-3.jpg" alt="Praxis 2023 photo 3" style="max-width:32%; margin-right:1%;">
+      <img src="/images/activities/praxis-2023-4.jpg" alt="Praxis 2023 photo 4" style="max-width:32%;">
+    </p>
+
+    <p>
+      <img src="/images/activities/praxis-2023-5.jpg" alt="Praxis 2023 photo 5" style="max-width:32%; margin-right:1%;">
+      <img src="/images/activities/praxis-2023-6.jpg" alt="Praxis 2023 photo 6" style="max-width:32%;">
+    </p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <h4>2022 BrightPath STEAM Academy Summer Camp (Jul 2022)</h4>
+    <p>
+      Event web: <a href="https://brightpathsteam.org">link</a><br>
+      BrightPath STEAM Academy Program: <a href="https://brightpathsteam.org">link</a><br>
+      News release:
+      <a href="https://www.stltoday.com">BrightPath STEAM Academy Impacts 500 Underrepresented Youth in St. Louis and Beyond!</a>
+    </p>
+
+    <p><img src="/images/activities/brightpath-2022-1.jpg" alt="2022 BrightPath STEAM Academy Summer Camp" style="max-width:700px; width:100%;"></p>
+
+    <p>
+      <img src="/images/activities/brightpath-2022-2.jpg" alt="BrightPath 2022 photo 2" style="max-width:32%; margin-right:1%;">
+      <img src="/images/activities/brightpath-2022-3.jpg" alt="BrightPath 2022 photo 3" style="max-width:32%; margin-right:1%;">
+      <img src="/images/activities/brightpath-2022-4.jpg" alt="BrightPath 2022 photo 4" style="max-width:32%;">
+    </p>
+
+    <p>
+      <img src="/images/activities/brightpath-2022-5.jpg" alt="BrightPath 2022 photo 5" style="max-width:32%; margin-right:1%;">
+      <img src="/images/activities/brightpath-2022-6.jpg" alt="BrightPath 2022 photo 6" style="max-width:32%;">
+    </p>
+  </article>
+</div>
+
+<hr />
+
+<h3>Previous research group</h3>
+<p><a href="https://wanggroup.wustl.edu/">Prof. Chuan Wang's Research Group in WashU</a></p>
+<p>
+  1 Brookings Drive<br>
+  Green Hall, Room 2157<br>
+  Saint Louis, MO 63130
+</p>
+<p>314 203 9260</p>
+<p><a href="mailto:junyi.zhao@wustl.edu">junyi.zhao@wustl.edu</a></p>

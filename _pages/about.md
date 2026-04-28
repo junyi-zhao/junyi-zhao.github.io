@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+Hi! I’m Junyi ~
+======
+
 I am a **Postdoctoral Scholar at Stanford University**. I received my **Ph.D. in Electrical Engineering** from **Washington University in St. Louis (WashU)**. Previously, I worked as a **Research Scientist intern at Meta Reality Labs**.  
 
 My research interests span various **soft / flexible / stretchable / wearable electronics**, including:
