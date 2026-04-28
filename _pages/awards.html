@@ -7,27 +7,83 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Awards and honors</h2>
+<hr />
 
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>Apr 19, 2024</strong> — <strong>Siteman Travel Award</strong> ($1,500 travel funds), awarded by the Siteman Cancer Center and Washington University School of Medicine.</p>
+  </article>
+</div>
 
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>Apr 17, 2024</strong> — <strong>Outstanding Doctoral Dissertation Award</strong>, awarded by the Preston M. Green Department of Electrical and Systems Engineering in the McKelvey School of Engineering.</p>
+  </article>
+</div>
 
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>Mar 25, 2024</strong> — <strong>2024 CAS Future Leaders</strong>, a prestigious program that provides early-career scientists with leadership training and connections to peers from around the world.</p>
+  </article>
+</div>
 
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>Mar 19, 2024</strong> — <strong>POLY Excellence in Graduate Polymer Research 2024</strong>, awarded by the American Chemical Society (ACS) to recognize outstanding graduate students in polymer science and engineering, foster networking and exposure, and support the development of future leaders in the field.</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>Feb 29, 2024</strong> — <strong>MSE Future Leaders Program</strong>, hosted by the Northwestern University Materials Research Science and Engineering Center (MRSEC).</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>Dec 22, 2023</strong> — <strong>Nano Research Energy Young Star Researcher Gold Award 2023</strong>, in recognition of outstanding research achievements in nanomaterials and nanotechnology for energy.</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>Nov 20, 2023</strong> — <strong>Graduate Award</strong>, presented at the 6th Interdisciplinary Research Symposium on Flexible Electronics Technology hosted by Tsinghua University.</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>Oct 30, 2023</strong> — <strong>Excellence in Graduate Polymer Research</strong>, awarded by the American Chemical Society (ACS) Polymer Chemistry Division (POLY), in recognition of outstanding graduate research in polymer science.</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>Apr 4, 2023</strong> — <strong>28th Annual WashU Graduate Research Symposium</strong> (2nd place in Engineering), awarded by Washington University in St. Louis. <a href="PASTE_LINK_HERE">Link</a></p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>Nov 30, 2022</strong> — <strong>Best Presentation Award</strong>, awarded by the Institute of Physics (IOP) for Symposium SB10 at the 2022 MRS Fall Meeting, Boston, MA.</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>2019</strong> — <strong>STMicroelectronics Fellowship</strong>, awarded for outstanding research achievement.</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>2018</strong> — <strong>Championship</strong>, <em>Future Flexible Display Designing Competition</em>.</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    <p><strong>2017</strong> — <strong>FastGear Scholarship</strong>, awarded for outstanding academic performance.</p>
+  </article>
+</div>
