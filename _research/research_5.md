@@ -1,6 +1,6 @@
 ---
 title: "Stretchable sponge electrodes for high-quality electrophysiologic recording"
-excerpt: "Porous stretchable electrodes for long-term and motion-artifact-tolerant recording of high-quality electrophysiologic signals."
+excerpt: "Porous stretchable electrodes for long-term and motion-artifact-tolerant recording of high-quality electrophysiologic signals.<br/><img src='/images/research/figure_stretchable_sponge.png'>"
 collection: research
 permalink: /research/sponge-electrodes/
 ---

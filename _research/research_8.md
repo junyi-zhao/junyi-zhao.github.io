@@ -1,6 +1,6 @@
 ---
 title: "Multimodal artificial neurological sensory–memory system"
-excerpt: "A multimodal artificial sensory–memory system based on flexible carbon nanotube synaptic transistors."
+excerpt: "A multimodal artificial sensory–memory system based on flexible carbon nanotube synaptic transistors.<br/><img src='/images/research/figure_Multimodal_artificial.png'>"
 collection: research
 permalink: /research/sensory-memory-system/
 ---

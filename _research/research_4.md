@@ -1,6 +1,6 @@
 ---
 title: "Soft sponge sensor for multimodal sensing"
-excerpt: "A soft sponge sensor capable of distinguishing pressure, strain, and temperature through multimodal electrical readout."
+excerpt: "A soft sponge sensor capable of distinguishing pressure, strain, and temperature through multimodal electrical readout.<br/><img src='/images/research/figure_Soft_Sponge.png'>"
 collection: research
 permalink: /research/sponge-sensor/
 ---

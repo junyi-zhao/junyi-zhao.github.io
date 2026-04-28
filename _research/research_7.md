@@ -1,6 +1,6 @@
 ---
 title: "Flexible CNT synaptic transistor for neurological E-skin"
-excerpt: "Synaptic Transistors for Neurological E-skin Applications."
+excerpt: "Synaptic Transistors for Neurological E-skin Applications.<br/><img src='/images/research/figure_Synaptic_transistors.png'>"
 collection: research
 permalink: /research/sensory-memory-system/
 ---
