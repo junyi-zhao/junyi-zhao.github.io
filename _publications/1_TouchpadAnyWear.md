@@ -2,7 +2,7 @@
 title: "TouchpadAnyWear: Textile-Integrated Tactile Sensors for Multimodal High Spatial-Resolution Touch Inputs with Motion Artifacts Tolerance"
 collection: publications
 category: manuscripts
-permalink: /publication/paper-title-number-1
+permalink: /publication/1_TouchpadAnyWear
 year: 2024
 author: "J. Zhao, (2024)"
 pub_group: first_author
