@@ -14,10 +14,10 @@ author_profile: true
   </div>
 {% endif %}
 
-<h2>Journal papers</h2>
+<h1>Journal papers</h1>
 <hr />
 
-<h3>First-author publications</h3>
+<h2>First-author publications</h2>
 {% assign title_shown = false %}
 {% for post in site.publications %}
   {% if post.pub_group != "first_author" %}
@@ -26,7 +26,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<h3>Co-author publications</h3>
+<h2>Co-author publications</h2>
 {% for post in site.publications %}
   {% if post.pub_group != "co_author" %}
     {% continue %}
