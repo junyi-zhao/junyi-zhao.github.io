@@ -7,6 +7,6 @@ date: 2020-01-01
 pub_group: co_author
 authors: "F. Lin, T. Vishal, J. Zhao, J. Schaibley, D. Liu, Z. Wang, J. Bao"
 venue_text: "Bulletin of the American Physical Society, Volume 65, 2020."
-paperurl: "https://meetings.aps.org/"
+paperurl: "https://meetings-archive.aps.org/mar/2020/d15/7/"
 ---
 

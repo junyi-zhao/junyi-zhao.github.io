@@ -7,6 +7,6 @@ date: 2023-01-01
 pub_group: co_author
 authors: "W. Li, Z. Xiao, J. Zhao, K. Aono, S. Pizzella, Z. Wen, Y. Wang, C. Wang, S. Chakrabartty"
 venue_text: "IEEE Transactions on Biomedical Circuits and Systems, 2023."
-paperurl: "https://ieeexplore.ieee.org/"
+paperurl: "https://ieeexplore.ieee.org/document/10129921"
 ---
 
