@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Junyi Zhao**, a **Postdoctoral Scholar at Stanford University**. I received my **Ph.D. in Electrical Engineering** from **Washington University in St. Louis (WashU)** and previously worked as a **Research Scientist Intern at Meta Reality Labs**.
+I am **Junyi Zhao**, a Postdoctoral Scholar at Stanford University. I received my Ph.D. in Electrical Engineering from Washington University in St. Louis (WashU) and previously worked as a Research Scientist Intern at Meta Reality Labs.
 
 My research focuses on **human-centered soft electronics** and spans soft, flexible, stretchable, and wearable systems for sensing, interaction, and health applications.
 
