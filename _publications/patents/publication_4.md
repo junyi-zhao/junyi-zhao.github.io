@@ -7,6 +7,6 @@ date: 2017-01-01
 pub_group: patent
 authors: "Y. Huang, J. Zhao"
 venue_text: "CN Patent, CN207737437U, 2017."
-paperurl: "https://patents.google.com/"
+paperurl: "https://patents.google.com/patent/CN207737437U/en?oq=CN207737437U"
 ---
 
