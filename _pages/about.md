@@ -22,28 +22,28 @@ My research focuses on <strong>human-centered soft electronics</strong> and span
 <p style="color: #555555; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
 Flexible and stretchable optoelectronic devices
 </p>
-<p style="color: #555555; font-size: 16px; margin-top: 0;">
+<p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
 Perovskite-based light-emitting diodes, photodetectors, solar cells, lasers, and related systems
 </p>
 
 <p style="color: #555555; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
 Soft sensors and wearable electronic systems for healthcare
 </p>
-<p style="color: #555555; font-size: 16px; margin-top: 0;">
+<p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
 Real-time physiological monitoring in both everyday and clinical settings
 </p>
 
 <p style="color: #555555; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
 Human–computer interaction
 </p>
-<p style="color: #555555; font-size: 16px; margin-top: 0;">
+<p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
 Input devices, tactile interfaces, haptic systems, and human–machine interaction
 </p>
 
 <p style="color: #555555; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
 Neurological micro- and nano-electronics
 </p>
-<p style="color: #555555; font-size: 16px; margin-top: 0;">
+<p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
 Bioinspired and interactive electronic systems at the micro- and nanoscale
 </p>
 
