@@ -14,13 +14,11 @@ My research focuses on **human-centered soft electronics** and spans soft, flexi
 ## Research interests
 
 - **Flexible and stretchable optoelectronic devices**  
-  Perovskite-based light-emitting diodes, photodetectors, solar cells, lasers, and related systems
-
+  <p style="color: #555555;"><em>Perovskite-based light-emitting diodes, photodetectors, solar cells, lasers, and related systems</em></p>
 - **Soft sensors and wearable electronic systems for healthcare**  
-  Real-time physiological monitoring in both everyday and clinical settings
-
+ <p style="color: #555555;"><em>Real-time physiological monitoring in both everyday and clinical settings</em></p>
 - **Human–computer interaction**  
-  Input devices, tactile interfaces, haptic systems, and human–machine interaction
+ <p style="color: #555555;"><em>Input devices, tactile interfaces, haptic systems, and human–machine interaction</em></p>
 
 - **Neurological micro- and nano-electronics**
 
@@ -39,48 +37,41 @@ Huazhong University of Science and Technology
 ## Professional experience
 
 <p><strong>2025–present</strong><br>
-Postdoctoral Scholar<br>
-Stanford University
+Postdoctoral Scholar, Stanford University<br>
 </p>
 
 <p><strong>Oct 2023–May 2024</strong><br>
-Research Scientist Intern<br>
-Meta Reality Labs
+Research Scientist Intern, Meta Reality Labs<br>
 </p>
 
 <p><strong>Jul 2018–Nov 2018</strong><br>
-Visiting Research Assistant<br>
-Electrical &amp; Computer Engineering, University of Houston
+Visiting Research Assistant, Electrical &amp; Computer Engineering, University of Houston<br>
 </p>
 
 ## Affiliations
 
 <p><strong>2025–present</strong><br>
-Postdoctoral Scholar<br>
-Stanford University, United States
+Postdoctoral Scholar, Stanford University, United States<br>
 </p>
 
 <p><strong>2019–2024</strong><br>
-Research Assistant, Electrical &amp; Systems Engineering<br>
-Washington University in St. Louis, United States<br>
+Research Assistant, Electrical &amp; Systems Engineering, Washington University in St. Louis, United States<br>
 Advisor: Prof. Chuan Wang
 </p>
 
 <p><strong>2018</strong><br>
-Visiting Research Assistant, Electrical &amp; Computer Engineering<br>
-University of Houston, United States<br>
+Visiting Research Assistant, Electrical &amp; Computer Engineering, University of Houston, United States<br>
+
 Advisor: Prof. Jiming Bao
 </p>
 
 <p><strong>2017–2019</strong><br>
-Research Assistant, State Key Lab of Digital Manufacturing Equipment &amp; Technology<br>
-China<br>
+Research Assistant, State Key Lab of Digital Manufacturing Equipment &amp; Technology, China<br>
 Advisor: Prof. Yongan Huang
 </p>
 
 <p><strong>2017–2019</strong><br>
-Undergraduate Researcher, Flexible Electronics Research Center<br>
-China<br>
+Undergraduate Researcher, Flexible Electronics Research Center,China<br>
 Advisor: Prof. Yongan Huang
 </p>
 

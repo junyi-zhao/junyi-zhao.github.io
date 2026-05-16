@@ -5,9 +5,19 @@ collection: research
 permalink: /research/handwriting-perovskite/
 ---
 
-![Handwriting perovskite optoelectronic devices on diverse substrates](/images/research/figure_Hand_writing_perovskite.png)
+<p style="text-align: center;">
+  <img src="/images/research/figure_Hand_writing_perovskite.png"
+       alt="Handwriting perovskite optoelectronic devices on diverse substrates"
+       style="max-width: 500px; width: 100%; height: auto;">
+</p>
 
-![Handwriting perovskite optoelectronic devices on diverse substrates](/images/research/figure_Hand_writing_perovskite_2.png)
+
+<p style="text-align: center;">
+  <img src="/images/research/figure_Hand_writing_perovskite_2.png"
+       alt="Handwriting perovskite optoelectronic devices on diverse substrates"
+       style="max-width: 500px; width: 100%; height: auto;">
+</p>
+
 
 **Junyi Zhao**, et al.  
 *Handwriting of perovskite optoelectronic devices on diverse substrates.*  
