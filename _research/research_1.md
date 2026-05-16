@@ -5,7 +5,11 @@ collection: research
 permalink: /research/perovskite-leds/
 ---
 
-![Printed perovskite LEDs](/images/research/figure_Printed_perovskite_LEDs.png)
+<p style="text-align: center;">
+  <img src="/images/research/figure_Printed_perovskite_LEDs.png"
+       alt="Printed perovskite LEDs"
+       style="max-width: 400px; width: 100%; height: auto;">
+</p>
 
 **Junyi Zhao**, et al.  
 *High-Speed Fabrication of All-Inkjet-Printed Organometallic Halide Perovskite Light-Emitting Diodes on Elastic Substrates.*  

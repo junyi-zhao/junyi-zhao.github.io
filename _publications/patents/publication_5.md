@@ -1,5 +1,5 @@
 ---
-title: "A magnetic pedal used for vehicle parking"
+title: "A kind of Multifunctional magnetic attraction type handlebar grip for vehicle parking"
 collection: publications
 category: patents
 permalink: /publication/patent-magnetic-pedal-vehicle-parking/
