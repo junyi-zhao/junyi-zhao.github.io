@@ -100,7 +100,7 @@ For a full list, please visit the [News](/news/) page.
 
 
 #### Visitors
-<div style="display: flex; justify-content: center; margin-top: 2em;">
+<div style="display: flex; justify-content: center; margin-top: 3em;">
   <div style="width: 260px; height: 260px; overflow: hidden;">
     <div style="transform: scale(0.5); transform-origin: top center;">
       <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pVwiNp-8OMtQy5if4Zml4eP86gy6DxjThKCRLkaJp6A"></script>
