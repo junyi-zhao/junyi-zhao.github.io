@@ -18,27 +18,53 @@ author_profile: true
 <hr />
 
 <h2>First-author publications</h2>
-{% assign title_shown = false %}
-{% for post in site.publications %}
-  {% if post.pub_group != "first_author" %}
-    {% continue %}
-  {% endif %}
-  {% include archive-single.html %}
+{% assign first_author_pubs = site.publications | where: "pub_group", "first_author" | sort: "date" | reverse %}
+{% for post in first_author_pubs %}
+  <div class="list__item">
+    <article class="archive__item">
+      <p style="margin-bottom: 0.8em;">
+        <strong>[{{ forloop.index }}] {{ post.title }}</strong><br>
+        {{ post.authors }}<br>
+        {{ post.venue_text }}<br>
+        {% if post.paperurl and post.paperurl != "" %}
+          <a href="{{ post.paperurl }}">Download paper</a>
+        {% endif %}
+      </p>
+    </article>
+  </div>
 {% endfor %}
 
 <h2>Co-author publications</h2>
-{% for post in site.publications %}
-  {% if post.pub_group != "co_author" %}
-    {% continue %}
-  {% endif %}
-  {% include archive-single.html %}
+{% assign co_author_pubs = site.publications | where: "pub_group", "co_author" | sort: "date" | reverse %}
+{% for post in co_author_pubs %}
+  <div class="list__item">
+    <article class="archive__item">
+      <p style="margin-bottom: 0.8em;">
+        <strong>[{{ forloop.index }}] {{ post.title }}</strong><br>
+        {{ post.authors }}<br>
+        {{ post.venue_text }}<br>
+        {% if post.paperurl and post.paperurl != "" %}
+          <a href="{{ post.paperurl }}">Download paper</a>
+        {% endif %}
+      </p>
+    </article>
+  </div>
 {% endfor %}
 
 <h2>Patents</h2>
 <hr />
-{% for post in site.publications %}
-  {% if post.pub_group != "patent" %}
-    {% continue %}
-  {% endif %}
-  {% include archive-single.html %}
+{% assign patents = site.publications | where: "pub_group", "patent" | sort: "date" | reverse %}
+{% for post in patents %}
+  <div class="list__item">
+    <article class="archive__item">
+      <p style="margin-bottom: 0.8em;">
+        <strong>[{{ forloop.index }}] {{ post.title }}</strong><br>
+        {{ post.authors }}<br>
+        {{ post.venue_text }}<br>
+        {% if post.paperurl and post.paperurl != "" %}
+          <a href="{{ post.paperurl }}">Download paper</a>
+        {% endif %}
+      </p>
+    </article>
+  </div>
 {% endfor %}
