@@ -99,7 +99,7 @@ For a full list, please visit the [News](/news/) page.
 [Prof. Chuan Wang’s Research Group at WashU](https://wanggroup.wustl.edu/)
 
 
-#### Visitors
+
 <div style="display: flex; justify-content: center; margin-top: 3em;">
   <div style="width: 260px; height: 260px; overflow: hidden;">
     <div style="transform: scale(0.5); transform-origin: top center;">
