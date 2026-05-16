@@ -146,6 +146,66 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <a href="https://wanggroup.wustl.edu/">Prof. Chuan Wang’s Research Group at WashU</a>
 </p>
 
+
+## Selected recent news
+<p>
+  <strong style="font-size: 14px; font-weight: 600;">Aug 17, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Gave a talk at the ACS 2024 Fall Meeting on E-textile for wearable healthcare in Denver, CO.</span>
+</p>
+
+<p>
+  <strong style="font-size: 14px; font-weight: 600;">Aug 10, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Selected to attend the 2024 CAS Future Leaders Program in Columbus, OH.</span>
+  <a href="https://www.cas.org/about/cas-future-leaders">Link</a>
+</p>
+
+<p>
+  <strong style="font-size: 14px; font-weight: 600;">Jul 02, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Successfully defended my Ph.D. dissertation and officially completed my Ph.D. in Electrical Engineering.</span>
+</p>
+
+<p>
+  <strong style="font-size: 14px; font-weight: 600;">Apr 19, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Selected as a recipient of the Siteman Travel Award ($1,500 travel funds) by the Siteman Cancer Center and Washington University School of Medicine.</span>
+</p>
+
+<p>
+  <strong style="font-size: 14px; font-weight: 600;">Apr 17, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Selected as a recipient of the Outstanding Doctoral Dissertation Award by the Preston M. Green Department of Electrical and Systems Engineering in the McKelvey School of Engineering.</span>
+</p>
+
+<p>
+  <strong style="font-size: 14px; font-weight: 600;">Mar 25, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Selected to the 2024 CAS Future Leaders Program. A total of 35 early-career scientists were selected from a global pool of candidates across 13 countries and 33 graduate or postdoctoral programs.</span>
+  <a href="https://www.cas.org/resources/cas-future-leaders/2024-future-leaders">CAS News Release</a>;
+  <a href="https://www.cas.org/about/cas-future-leaders">CAS Website</a>;
+  <a href="https://cen.acs.org/careers/salaries-and-careers/CAS-names-35-Future-Leaders/102/web/2024/03">C&amp;EN News</a>;
+  <a href="https://twitter.com/CAS_Insights">Twitter</a>
+</p>
+
+<p>
+  <strong style="font-size: 14px; font-weight: 600;">Mar 19, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Awarded the POLY Excellence in Graduate Polymer Research 2024 by the American Chemical Society (ACS) at the ACS 2024 Spring Meeting in New Orleans, LA, while giving an invited talk.</span>
+</p>
+
+<p>
+  <strong style="font-size: 14px; font-weight: 600;">Feb 29, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Selected to the MSE Future Leaders Program hosted by Northwestern University Materials Research Science and Engineering Center (MRSEC).</span>
+</p>
+
+<p>
+  <strong style="font-size: 14px; font-weight: 600;">Jan 11, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">HEC-TV released a news article and interview video on my research progress in versatile manufacturing of perovskite optoelectronics, titled “Engineering New Ink for Ballpoint Pens to Write Custom LEDs on Any Surface for High-Tech Advantages.”</span>
+  <a href="https://hecmedia.org/posts/engineering-new-ink-for-ballpoint-pens-to-write-custom-leds-on-any-surface-for-high-tech-advantages">News</a>,
+  <a href="https://youtu.be/UF6fQK6sW0g">Video</a>
+</p>
+
+<p>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">For a full list, please visit the <a href="/news/">News</a> page.</span>
+</p>
+
+
+
 <div style="display: flex; justify-content: center; margin-top: 3em;">
   <div style="width: 180px; height: 180px; overflow: hidden;">
     <div style="transform: scale(0.48); transform-origin: top center;">
