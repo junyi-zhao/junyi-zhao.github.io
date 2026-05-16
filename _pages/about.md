@@ -99,5 +99,7 @@ For a full list, please visit the [News](/news/) page.
 [Prof. Chuan Wang’s Research Group at WashU](https://wanggroup.wustl.edu/)
 
 
-## Visitors
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pVwiNp-8OMtQy5if4Zml4eP86gy6DxjThKCRLkaJp6A"></script>
+#### Visitors
+<div style="margin-top: 1em;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pVwiNp-8OMtQy5if4Zml4eP86gy6DxjThKCRLkaJp6A"></script>
+</div>
