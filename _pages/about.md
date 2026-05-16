@@ -16,19 +16,37 @@ I am <strong>Junyi Zhao</strong>, a Postdoctoral Scholar at Stanford University.
 My research focuses on <strong>human-centered soft electronics</strong> and spans soft, flexible, stretchable, and wearable systems for sensing, interaction, and health applications.
 </p>
 
+
 ## Research interests
 
-- **Flexible and stretchable optoelectronic devices**  
-  <p style="color: #555555; font-size: 14px;font-style: italic;"><em>Perovskite-based light-emitting diodes, photodetectors, solar cells, lasers, and related systems</em></p>
+<p style="color: #555555; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
+Flexible and stretchable optoelectronic devices
+</p>
+<p style="color: #555555; font-size: 16px; margin-top: 0;">
+Perovskite-based light-emitting diodes, photodetectors, solar cells, lasers, and related systems
+</p>
 
-- **Soft sensors and wearable electronic systems for healthcare**  
-  <p style="color: #555555; font-size: 14px;font-style: italic;"><em>Real-time physiological monitoring in both everyday and clinical settings</em></p>
+<p style="color: #555555; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
+Soft sensors and wearable electronic systems for healthcare
+</p>
+<p style="color: #555555; font-size: 16px; margin-top: 0;">
+Real-time physiological monitoring in both everyday and clinical settings
+</p>
 
-- **Human–computer interaction**  
-  <p style="color: #555555; font-size: 14px;font-style: italic;"><em>Input devices, tactile interfaces, haptic systems, and human–machine interaction</em></p>
+<p style="color: #555555; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
+Human–computer interaction
+</p>
+<p style="color: #555555; font-size: 16px; margin-top: 0;">
+Input devices, tactile interfaces, haptic systems, and human–machine interaction
+</p>
 
-- **Neurological micro- and nano-electronics**  
-  <p style="color: #555555; font-size: 14px;font-style: italic;"><em>Bioinspired and interactive electronic systems at the micro- and nanoscale</em></p>
+<p style="color: #555555; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
+Neurological micro- and nano-electronics
+</p>
+<p style="color: #555555; font-size: 16px; margin-top: 0;">
+Bioinspired and interactive electronic systems at the micro- and nanoscale
+</p>
+
 
 ## Education
 
