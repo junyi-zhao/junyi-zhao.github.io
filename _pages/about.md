@@ -60,67 +60,67 @@ Research Scientist Intern, Meta Reality Labs, USA
 <strong>Jul 2018–Nov 2018</strong><br>
 Visiting Research Assistant, Electrical &amp; Computer Engineering, University of Houston, USA
 </p>
-
 ## Affiliations
+
 <p>
-  <strong>2025–present</strong><br>
-  <span style="color: #555555; font-size: 14px;font-style: italic;"><em>Postdoctoral Scholar, Stanford University, USA</em></span>
+  <strong style="color: #555555; font-size: 14px; font-weight: 600;">2025–present</strong><br>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Postdoctoral Scholar, Stanford University, USA</span>
 </p>
 
 <p>
-  <strong>2019–2024</strong><br>
-  <span style="color: #555555; font-size: 14px;font-style: italic;"><em>Research Assistant, Electrical &amp; Systems Engineering, Washington University in St. Louis, USA</em></span><br>
-  <span style="color: #555555; font-size: 14px;font-style: italic;"><em>Advisor: Prof. Chuan Wang</em></span>
+  <strong style="color: #555555; font-size: 14px; font-weight: 600;">2019–2024</strong><br>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Research Assistant, Electrical &amp; Systems Engineering, Washington University in St. Louis, USA</span><br>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Advisor: Prof. Chuan Wang</span>
 </p>
 
 <p>
-  <strong>2018</strong><br>
-  <span style="color: #555555; font-size: 14px;font-style: italic;"><em>Visiting Research Assistant, Electrical &amp; Computer Engineering, University of Houston, USA</em></span><br>
-  <span style="color: #555555; font-size: 14px;font-style: italic;"><em>Advisor: Prof. Jiming Bao</em></span>
+  <strong style="color: #555555; font-size: 14px; font-weight: 600;">2018</strong><br>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Visiting Research Assistant, Electrical &amp; Computer Engineering, University of Houston, USA</span><br>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Advisor: Prof. Jiming Bao</span>
 </p>
 
 <p>
-  <strong>2017–2019</strong><br>
-  <span style="color: #555555; font-size: 14px;font-style: italic;"><em>Research Assistant, State Key Lab of Digital Manufacturing Equipment &amp; Technology, China</em></span><br>
-  <span style="color: #555555; font-size: 14px;font-style: italic;"><em>Advisor: Prof. Yongan Huang</em></span>
+  <strong style="color: #555555; font-size: 14px; font-weight: 600;">2017–2019</strong><br>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Research Assistant, State Key Lab of Digital Manufacturing Equipment &amp; Technology, China</span><br>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Advisor: Prof. Yongan Huang</span>
 </p>
 
 <p>
-  <strong>2017–2019</strong><br>
-  <span style="color: #555555; font-size: 14px;font-style: italic;"><em>Undergraduate Researcher, Flexible Electronics Research Center, China</em></span><br>
-  <span style="color: #555555; font-size: 14px;font-style: italic;"><em>Advisor: Prof. Yongan Huang</em></span>
+  <strong style="color: #555555; font-size: 14px; font-weight: 600;">2017–2019</strong><br>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Undergraduate Researcher, Flexible Electronics Research Center, China</span><br>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Advisor: Prof. Yongan Huang</span>
 </p>
 
 ## Selected recent news
+
 <p>
-  <strong>Aug 17, 2024</strong> —
-  <span style="color: #555555; font-size: 14px;"><em>Gave a talk at the ACS 2024 Fall Meeting on E-textile for wearable healthcare in Denver, CO</em></span>
+  <strong style="color: #555555; font-size: 14px; font-weight: 600;">Aug 17, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Gave a talk at the ACS 2024 Fall Meeting on E-textile for wearable healthcare in Denver, CO</span>
 </p>
 
 <p>
-  <strong>Aug 10, 2024</strong> —
-  <span style="color: #555555; font-size: 14px;"><em>Selected for the 2024 CAS Future Leaders Program</em></span>
+  <strong style="color: #555555; font-size: 14px; font-weight: 600;">Aug 10, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Selected for the 2024 CAS Future Leaders Program</span>
 </p>
 
 <p>
-  <strong>Jul 2, 2024</strong> —
-  <span style="color: #555555; font-size: 14px;"><em>Successfully defended my Ph.D. dissertation</em></span>
+  <strong style="color: #555555; font-size: 14px; font-weight: 600;">Jul 2, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Successfully defended my Ph.D. dissertation</span>
 </p>
 
 <p>
-  <strong>Apr 19, 2024</strong> —
-  <span style="color: #555555; font-size: 14px;"><em>Received the Siteman Travel Award</em></span>
+  <strong style="color: #555555; font-size: 14px; font-weight: 600;">Apr 19, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Received the Siteman Travel Award</span>
 </p>
 
 <p>
-  <strong>Apr 17, 2024</strong> —
-  <span style="color: #555555; font-size: 14px;"><em>Received the Outstanding Doctoral Dissertation Award</em></span>
+  <strong style="color: #555555; font-size: 14px; font-weight: 600;">Apr 17, 2024</strong> —
+  <span style="color: #555555; font-size: 14px; font-style: italic;">Received the Outstanding Doctoral Dissertation Award</span>
 </p>
 
 <p>
-  <span style="color: #555555; font-size: 14px;"><em>For a full list, please visit the <a href="/news/">News</a> page.</em></span>
+  <span style="color: #555555; font-size: 14px; font-style: italic;">For a full list, please visit the <a href="/news/">News</a> page.</span>
 </p>
-
 
 ## Previous research group
 
