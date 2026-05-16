@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<p style="color: #555555; font-size: 14px;">
+<p style="color: #555555; font-size: 16px;">
 I am <strong>Junyi Zhao</strong>, a Postdoctoral Scholar at Stanford University. I received my Ph.D. in Electrical Engineering from Washington University in St. Louis (WashU) and previously worked as a Research Scientist Intern at Meta Reality Labs.
 </p>
 
-<p style="color: #555555; font-size: 14px;">
+<p style="color: #555555; font-size: 16px;">
 My research focuses on <strong>human-centered soft electronics</strong> and spans soft, flexible, stretchable, and wearable systems for sensing, interaction, and health applications.
 </p>
 
