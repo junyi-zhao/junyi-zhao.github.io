@@ -14,7 +14,6 @@ author_profile: true
   </div>
 {% endif %}
 
-
 <h1>Journal papers</h1>
 <hr />
 
@@ -27,8 +26,18 @@ author_profile: true
         <strong>[{{ forloop.index }}] {{ post.title }}</strong><br>
         {{ post.authors }}<br>
         {{ post.venue_text }}<br>
-        {% if post.paperurl and post.paperurl != "" %}
-          <a href="{{ post.paperurl }}">Download paper</a>
+        {% if post.paperurl and post.paperurl != "" or post.pdf and post.pdf != "" %}
+          <span>
+            {% if post.paperurl and post.paperurl != "" %}
+              [<a href="{{ post.paperurl }}">paper link</a>]
+            {% endif %}
+            {% if post.paperurl and post.paperurl != "" and post.pdf and post.pdf != "" %}
+              |
+            {% endif %}
+            {% if post.pdf and post.pdf != "" %}
+              [<a href="{{ post.pdf }}">PDF</a>]
+            {% endif %}
+          </span>
         {% endif %}
       </p>
     </article>
@@ -44,8 +53,18 @@ author_profile: true
         <strong>[{{ forloop.index }}] {{ post.title }}</strong><br>
         {{ post.authors }}<br>
         {{ post.venue_text }}<br>
-        {% if post.paperurl and post.paperurl != "" %}
-          <a href="{{ post.paperurl }}">Download paper</a>
+        {% if post.paperurl and post.paperurl != "" or post.pdf and post.pdf != "" %}
+          <span>
+            {% if post.paperurl and post.paperurl != "" %}
+              [<a href="{{ post.paperurl }}">paper link</a>]
+            {% endif %}
+            {% if post.paperurl and post.paperurl != "" and post.pdf and post.pdf != "" %}
+              |
+            {% endif %}
+            {% if post.pdf and post.pdf != "" %}
+              [<a href="{{ post.pdf }}">PDF</a>]
+            {% endif %}
+          </span>
         {% endif %}
       </p>
     </article>
@@ -62,8 +81,18 @@ author_profile: true
         <strong>[{{ forloop.index }}] {{ post.title }}</strong><br>
         {{ post.authors }}<br>
         {{ post.venue_text }}<br>
-        {% if post.paperurl and post.paperurl != "" %}
-          <a href="{{ post.paperurl }}">Download paper</a>
+        {% if post.paperurl and post.paperurl != "" or post.pdf and post.pdf != "" %}
+          <span>
+            {% if post.paperurl and post.paperurl != "" %}
+              [<a href="{{ post.paperurl }}">paper link</a>]
+            {% endif %}
+            {% if post.paperurl and post.paperurl != "" and post.pdf and post.pdf != "" %}
+              |
+            {% endif %}
+            {% if post.pdf and post.pdf != "" %}
+              [<a href="{{ post.pdf }}">PDF</a>]
+            {% endif %}
+          </span>
         {% endif %}
       </p>
     </article>

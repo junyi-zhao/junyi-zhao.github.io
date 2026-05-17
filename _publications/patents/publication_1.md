@@ -9,4 +9,3 @@ authors: "C. Wang, J. Zhao"
 venue_text: "US Patent, 2025."
 paperurl: "https://patents.google.com/patent/US12464937B1/en"
 ---
-
