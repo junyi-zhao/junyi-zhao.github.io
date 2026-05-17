@@ -5,7 +5,12 @@ collection: research
 permalink: /research/sensory-memory-system/
 ---
 
-![Multimodal artificial neurological sensory–memory system](/images/research/figure_Multimodal_artificial.png)
+<p style="text-align: center;">
+  <img src="/images/research/figure_Multimodal_artificial.png"
+       alt="Multimodal artificial neurological sensory–memory system"
+       style="max-width: 400px; width: 90%; height: auto;">
+</p>
+
 
 H. Wan, **J. Zhao**, L. W. Lo, et al.  
 *Multimodal artificial neurological sensory–memory system based on flexible carbon nanotube synaptic transistor.*  

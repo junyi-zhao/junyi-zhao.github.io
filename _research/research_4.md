@@ -5,7 +5,11 @@ collection: research
 permalink: /research/sponge-sensor/
 ---
 
-![Soft sponge sensor for multimodal sensing](/images/research/figure_Soft_Sponge.png)
+<p style="text-align: center;">
+  <img src="/images/research/figure_Soft_Sponge.png"
+       alt="Soft sponge sensor for multimodal sensing"
+       style="max-width: 400px; width: 90%; height: auto;">
+</p>
 
 L. W. Lo, **J. Zhao**, et al.  
 *A soft sponge sensor for multimodal sensing and distinguishing of pressure, strain, and temperature.*  

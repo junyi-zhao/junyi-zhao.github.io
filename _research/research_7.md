@@ -5,7 +5,13 @@ collection: research
 permalink: /research/sensory-memory-system/
 ---
 
-![Flexible CNT synaptic transistor for neurological E-skin](/images/research/figure_Synaptic_transistors.png)
+<p style="text-align: center;">
+  <img src="/images/research/figure_Synaptic_transistors.png"
+       alt="Flexible CNT synaptic transistor for neurological E-skin"
+       style="max-width: 400px; width: 90%; height: auto;">
+</p>
+
+
 
 H. Wan, Y. Cao, LW. Lo, **J. Zhao**, et al.  
 *Flexible carbon nanotube synaptic transistor for neurological electronic skin applications.*  
