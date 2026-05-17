@@ -8,19 +8,19 @@ author_profile: true
 {% include base_path %}
 
 <style>
-  .research-archive .archive__item-teaser {
-    max-width: 280px;
+  .research-main-page .archive__item-teaser {
+    max-width: 240px;
     margin-bottom: 0.8em;
   }
 
-  .research-archive .archive__item-teaser img {
+  .research-main-page .archive__item-teaser img {
     width: 100%;
     height: auto;
     display: block;
   }
 </style>
 
-<div class="research-archive">
+<div class="research-main-page">
 {% if site.research_category %}
   {% for category in site.research_category %}
     {% assign title_shown = false %}
