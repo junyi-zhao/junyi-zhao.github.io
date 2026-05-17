@@ -8,5 +8,6 @@ pub_group: co_author
 authors: "L. W. Lo, J. Zhao, K. Aono, W. Li, Z. Wen, S. Pizzella, Y. Wang, S. Chakrabartty, C. Wang"
 venue_text: "ACS Nano, Vol. 16, 11792–11801, 2022."
 paperurl: "https://pubs.acs.org/doi/10.1021/acsnano.2c04962"
+pdf: "/files/Stretchable Sponge Electrodes for Long-Term and Motion Artifact Tolerant Recording of High-Quality Electrophysiologic Signals.pdf"
 ---
 

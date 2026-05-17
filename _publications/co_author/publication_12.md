@@ -8,5 +8,6 @@ pub_group: co_author
 authors: "L. W. Lo, J. Zhao, H. Wan, Y. Wang, S. Chakrabartty, C. Wang"
 venue_text: "ACS Applied Materials & Interfaces, Vol. 13, 21693–21702, 2021."
 paperurl: "https://pubs.acs.org/doi/10.1021/acsami.1c00537"
+pdf: "/files/An Inkjet-Printed PEDOT-PSS-Based Stretchable Conductor for Wearable Health Monitoring Device Applications.pdf"
 ---
 

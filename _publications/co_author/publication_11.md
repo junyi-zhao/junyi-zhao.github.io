@@ -8,5 +8,6 @@ pub_group: co_author
 authors: "H. Wan, J. Zhao, L. W. Lo, Y. Cao, N. Sepúlveda, C. Wang"
 venue_text: "ACS Nano, Vol. 15, 14587–14597, 2021."
 paperurl: "https://pubs.acs.org/doi/10.1021/acsnano.1c04298"
+pdf: "/files/multimodal-artificial-neurological-sensory-memory-system-based-on-flexible-carbon-nanotube-synaptic-transistor.pdf"
 ---
 
