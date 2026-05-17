@@ -8,7 +8,7 @@ permalink: /research/sensory-memory-system/
 <p style="text-align: center;">
   <img src="/images/research/figure_Multimodal_artificial.png"
        alt="Multimodal artificial neurological sensory–memory system"
-       style="max-width: 400px; width: 90%; height: auto;">
+       style="max-width: 400px; width: 100%; height: auto;">
 </p>
 
 

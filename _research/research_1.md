@@ -8,7 +8,7 @@ permalink: /research/perovskite-leds/
 <p style="text-align: center;">
   <img src="/images/research/figure_Printed_perovskite_LEDs.png"
        alt="Printed perovskite LEDs"
-       style="max-width: 400px; width: 90%; height: auto;">
+       style="max-width: 400px; width: 100%; height: auto;">
 </p>
 
 **Junyi Zhao**, et al.  

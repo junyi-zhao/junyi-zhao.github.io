@@ -8,13 +8,13 @@ permalink: /research/sponge-sensor/
 <p style="text-align: center;">
   <img src="/images/research/figure_Soft_Sponge.png"
        alt="Soft sponge sensor for multimodal sensing"
-       style="max-width: 400px; width: 90%; height: auto;">
+       style="max-width: 400px; width: 100%; height: auto;">
 </p>
 
 L. W. Lo, **J. Zhao**, et al.  
 *A soft sponge sensor for multimodal sensing and distinguishing of pressure, strain, and temperature.*  
 **ACS Applied Materials & Interfaces** 14, 9570–9578 (2022).  
-[Paper link](PASTE_PAPER_LINK_HERE)
+[Paper link](https://pubs.acs.org/doi/10.1021/acsami.1c21003E)
 
 **Abstract**  
 Abstract

@@ -8,7 +8,7 @@ permalink: /research/synaptic-transistor/
 <p style="text-align: center;">
   <img src="/images/research/figure_Synaptic_transistors.png"
        alt="Flexible CNT synaptic transistor for neurological E-skin"
-       style="max-width: 400px; width: 90%; height: auto;">
+       style="max-width: 400px; width: 100%; height: auto;">
 </p>
 
 

@@ -8,7 +8,7 @@ permalink: /research/sponge-electrodes/
 <p style="text-align: center;">
   <img src="/images/research/figure_stretchable_sponge.png"
        alt="Stretchable sponge electrodes for electrophysiologic recording"
-       style="max-width: 400px; width: 90%; height: auto;">
+       style="max-width: 400px; width: 100%; height: auto;">
 </p>
 
 L. W. Lo, **J. Zhao**, et al.  

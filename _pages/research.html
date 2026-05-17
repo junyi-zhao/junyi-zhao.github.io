@@ -7,6 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .research-archive .archive__item-teaser {
+    max-width: 280px;
+    margin-bottom: 0.8em;
+  }
+
+  .research-archive .archive__item-teaser img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+</style>
+
+<div class="research-archive">
 {% if site.research_category %}
   {% for category in site.research_category %}
     {% assign title_shown = false %}
@@ -27,7 +41,4 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
-
+</div>
