@@ -2,11 +2,26 @@
 permalink: /
 title: "About"
 author_profile: true
-classes: wide
+classes: wide about-wide
 redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+  .page {
+    max-width: 1500px;
+  }
+
+  .page__inner-wrap {
+    max-width: 1300px;
+  }
+
+  .page__content {
+    max-width: 980px;
+  }
+</style>
+
 
 <p style="color: #555555; font-size: 16px;">
 I am <strong>Junyi Zhao</strong>, a Postdoctoral Scholar at Stanford University. I received my Ph.D. in Electrical Engineering from Washington University in St. Louis (WashU) and previously worked as a Research Scientist Intern at Meta Reality Labs.
@@ -113,7 +128,7 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 17, 2024</strong> —
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Gave a talk at the ACS 2024 Fall Meeting on E-textile for wearable healthcare in Denver, CO</span>
+  <span style="color: #555555; font-size: 16px; font-style: italic;">Gave a talk at the ACS 2024 Fall Meeting on E-textile for wearable healthcare. Denver, CO</span>
 </p>
 
 <p>
