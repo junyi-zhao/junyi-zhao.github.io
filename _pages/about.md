@@ -164,7 +164,11 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <div style="display: flex; justify-content: center; margin-top: 3em;">
   <div style="width: 180px; height: 180px; overflow: hidden;">
     <div style="transform: scale(0.5); transform-origin: top center;">
-      <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MZn6e4BJ433ydQ6b6V2v0IZ13YrXiwgquCRLQoITNcw&cl=ffffff&w=a"></script>
+      <script
+        type="text/javascript"
+        id="mmvst_globe"
+        src="https://mapmyvisitors.com/map.js?d=MZn6e4BJ433ydQ6b6V2v0IZ13YrXiwgquCRLQoITNcw&cl=ffffff&w=a">
+      </script>
     </div>
   </div>
 </div>
