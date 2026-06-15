@@ -161,8 +161,6 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <a href="https://wanggroup.wustl.edu/">Prof. Chuan Wang’s Research Group at WashU</a>
 </p>
 
-
-
 <div style="display: flex; justify-content: center; margin-top: 3em;">
   <div style="width: 180px; height: 180px; overflow: hidden;">
     <div style="transform: scale(0.5); transform-origin: top center;">
