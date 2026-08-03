@@ -156,20 +156,29 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 ## Previous research group
+## Previous research group
 
 <p style="color: #555555; font-size: 16px;">
-<a href="https://wanggroup.wustl.edu/">Prof. Chuan Wang’s Research Group at WashU</a>
+  <a href="https://wanggroup.wustl.edu/">
+    Prof. Chuan Wang’s Research Group at WashU
+  </a>
 </p>
 
-<div style="display: flex; justify-content: center; margin-top: 3em;">
-  <div style="width: 260px; height: 260px; overflow: hidden;">
-    <div style="transform: scale(0.72); transform-origin: top center;">
-      <script
-        type="text/javascript"
-        id="mmvst_globe"
-        src="https://mapmyvisitors.com/map.js?d=MZn6e4BJ433ydQ6b6V2v0IZ13YrXiwgquCRLQoITNcw&cl=ffffff&w=a">
-      </script>
-    </div>
-  </div>
+<div class="visitor-map">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=MZn6e4BJ433ydQ6b6V2v0IZ13YrXiwgquCRLQoITNcw">
+  </script>
 </div>
 
+<style>
+  .visitor-map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3em;
+    min-height: 300px;
+    width: 100%;
+  }
+</style>
