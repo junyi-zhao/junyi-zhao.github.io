@@ -93,23 +93,6 @@ Research Scientist Intern, Meta Reality Labs, USA
 <strong>Jul 2018–Nov 2018</strong><br>
 Visiting Research Assistant, Electrical &amp; Computer Engineering, University of Houston, USA
 </p>
-## Affiliations
-
-<p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">2025–present</strong><br>
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Postdoctoral Scholar, Stanford University, USA</span>
-</p>
-
-<p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">2019–2024</strong><br>
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Research Assistant, Electrical &amp; Systems Engineering, Washington University in St. Louis, USA</span><br>
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Advisor: Prof. Chuan Wang</span>
-</p>
-
-<p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">2018</strong><br>
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Visiting Research Assistant, Electrical &amp; Computer Engineering, University of Houston, USA</span><br>
-</p>
 
 
 ## Selected recent news
