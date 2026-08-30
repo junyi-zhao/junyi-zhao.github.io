@@ -45,7 +45,7 @@ Real-time physiological monitoring in both everyday and clinical settings
 Soft optoelectronics
 </p>
 <p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
-Perovskite-based light-emitting diodes, photodetectors, solar cells, lasers, and related systems
+Flexible/stretchable light-emitting diodes, photodetectors, solar cells, lasers, and related systems
 </p>
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
