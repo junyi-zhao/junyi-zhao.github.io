@@ -142,6 +142,6 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
     align-items: center;
     margin-top: 3em;
     min-height: 300px;
-    width: 100%;
+    width: 50%;
   }
 </style>
