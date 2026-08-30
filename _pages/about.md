@@ -126,14 +126,6 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
   <span style="color: #555555; font-size: 16px; font-style: italic;">For a full list, please visit the <a href="/news/">News</a> page.</span>
 </p>
 
-## Previous research group
-## Previous research group
-
-<p style="color: #555555; font-size: 16px;">
-  <a href="https://wanggroup.wustl.edu/">
-    Prof. Chuan Wang’s Research Group at WashU
-  </a>
-</p>
 
 <div class="visitor-map">
   <script
