@@ -98,28 +98,42 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 ## Selected recent news
 
 <p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 17, 2024</strong> —
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2024</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;">Received the MRS Graduate Student Award (GOLD)</span>
+</p>
+
+
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">Gave a talk at the ACS 2024 Fall Meeting on E-textile for wearable healthcare. Denver, CO</span>
 </p>
 
 <p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 10, 2024</strong> —
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">Selected for the 2024 CAS Future Leaders Program</span>
 </p>
 
-<p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Jul 2, 2024</strong> —
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Successfully defended my Ph.D. dissertation</span>
-</p>
 
 <p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Apr 19, 2024</strong> —
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Apr 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">Received the Siteman Travel Award</span>
 </p>
 
 <p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Apr 17, 2024</strong> —
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Apr 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">Received the Outstanding Doctoral Dissertation Award</span>
+</p>
+
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    First-authored paper published at ACM UIST 2024 on textile-integrated embodied tactile interfaces for robust gesture recognition
+  </span>
+</p>
+
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;"> First-authored paper published in <em>Nature Photonics</em> on soft perovskite optoelectronics</span>
 </p>
 
 <p>
