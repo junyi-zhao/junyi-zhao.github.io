@@ -109,7 +109,6 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">2018</strong><br>
   <span style="color: #555555; font-size: 16px; font-style: italic;">Visiting Research Assistant, Electrical &amp; Computer Engineering, University of Houston, USA</span><br>
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Advisor: Prof. Jiming Bao</span>
 </p>
 
 
