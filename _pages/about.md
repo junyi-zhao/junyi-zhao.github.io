@@ -35,24 +35,24 @@ My research focuses on <strong>human-centered soft electronics</strong> and span
 ## Research interests
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
-Flexible and stretchable optoelectronic devices
+Soft optoelectronics
 </p>
 <p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
 Perovskite-based light-emitting diodes, photodetectors, solar cells, lasers, and related systems
 </p>
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
-Soft sensors and wearable electronic systems for healthcare
+Wearable electronics & systems for healthcare
 </p>
 <p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
 Real-time physiological monitoring in both everyday and clinical settings
 </p>
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
-Human–computer interaction
+Human–computer interactions
 </p>
 <p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
-Input devices, tactile interfaces, haptic systems, and human–machine interaction
+Input devices, tactile interfaces, haptic systems, and human–machine interactions
 </p>
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
