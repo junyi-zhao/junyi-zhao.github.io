@@ -112,17 +112,6 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
   <span style="color: #555555; font-size: 16px; font-style: italic;">Advisor: Prof. Jiming Bao</span>
 </p>
 
-<p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">2017–2019</strong><br>
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Research Assistant, State Key Lab of Digital Manufacturing Equipment &amp; Technology, China</span><br>
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Advisor: Prof. Yongan Huang</span>
-</p>
-
-<p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">2017–2019</strong><br>
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Undergraduate Researcher, Flexible Electronics Research Center, China</span><br>
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Advisor: Prof. Yongan Huang</span>
-</p>
 
 ## Selected recent news
 
