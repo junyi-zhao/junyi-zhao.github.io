@@ -132,6 +132,11 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2021</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;"> First-authored paper published in <em>Advanced Materials</em> on soft perovskite optoelectronics</span>
+</p>
+
+<p>
   <span style="color: #555555; font-size: 16px; font-style: italic;">For a full list, please visit the <a href="/news/">News</a> page.</span>
 </p>
 
