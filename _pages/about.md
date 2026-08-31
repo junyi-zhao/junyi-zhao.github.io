@@ -114,10 +114,6 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
     First-authored paper published at <em>ACM UIST 2024<em> on textile-integrated embodied tactile interfaces for robust gesture recognition</span>
 </p>
 
-<p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Apr 2024</strong> —
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Received the Siteman Travel Award</span>
-</p>
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Apr 2024</strong> —
