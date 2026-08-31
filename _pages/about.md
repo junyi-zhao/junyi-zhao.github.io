@@ -127,7 +127,7 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2021</strong> —
-  <span style="color: #555555; font-size: 16px; font-style: italic;"> First-authored paper published in <em>Advanced Materials</em> on printed soft light-emitting-diodes (LEDs)</span>
+  <span style="color: #555555; font-size: 16px; font-style: italic;"> First-authored paper published in <em>Advanced Materials</em> on printed light-emitting-diodes (LEDs)</span>
 </p>
 
 <p>
