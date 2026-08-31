@@ -49,7 +49,7 @@ Flexible/stretchable light-emitting diodes, photodetectors, solar cells, lasers,
 </p>
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
-Human–computer interactions
+Embodied human–computer interactions
 </p>
 <p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
 Input devices, tactile interfaces, haptic systems, and human–machine interactions
