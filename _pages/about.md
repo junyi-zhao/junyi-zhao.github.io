@@ -28,7 +28,7 @@ I am <strong>Junyi Zhao</strong>, a Postdoctoral Scholar at Stanford University.
 </p>
 
 <p style="color: #555555; font-size: 16px;">
-My research focuses on <strong>human-centered soft electronics</strong> for sensing, perception, and feedback.
+My research focuses on <strong>human-centered soft electronics</strong> for sensing, perception, and feedback, spanning innovations in biomaterials, bioelectronics, system integration, and translational deployment.
 </p>
 
 
