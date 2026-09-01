@@ -35,7 +35,7 @@ My research focuses on <strong>human-centered soft electronics</strong> for sens
 ## Research interests
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
-Bioelectronics & wearable systems for translational healthcare
+Bio-Materials, Bio-Interface, and Bio-Electronics for translational healthcare
 </p>
 <p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
 Real-time multimodal physiological monitoring in both everyday and clinical settings
