@@ -99,39 +99,107 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2024</strong> —
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Received the MRS Graduate Student Award (Gold)</span>
-</p>
-
-
-<p>
-  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Selected for the 2024 CAS Future Leaders Program</span>
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    Received the MRS Graduate Student Award (Gold)
+  </span>
 </p>
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
-  <span style="color: #555555; font-size: 16px; font-style: italic;">First-authored paper published at ACM UIST 2024 on textile-integrated embodied tactile interfaces for robust gesture recognition</span>
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    Selected for the 2024 CAS Future Leaders Program
+  </span>
 </p>
 
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    First-authored paper published at ACM UIST 2024 on textile-integrated embodied tactile interfaces for robust gesture recognition
+  </span>
+</p>
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Apr 2024</strong> —
-  <span style="color: #555555; font-size: 16px; font-style: italic;">Received the Outstanding Doctoral Dissertation Award</span>
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    Received the Outstanding Doctoral Dissertation Award
+  </span>
 </p>
 
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Jan 2024</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    <span style="color: #c1121f;">HEC Media</span> featured our handwritten optoelectronics work in a news story and interview video.
+    <a href="https://hecmedia.org/posts/engineering-new-ink-for-ballpoint-pens-to-write-custom-leds-on-any-surface-for-high-tech-adavantages" target="_blank" rel="noopener noreferrer">[News]</a>
+    <a href="https://www.youtube.com/watch?v=nK9CdxsPw4E" target="_blank" rel="noopener noreferrer">[Video]</a>
+  </span>
+</p>
+
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Oct 2023</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    <span style="color: #c1121f;"><em>Nature Photonics</em> <strong>News &amp; Views</strong></span> highlighted our handwritten perovskite optoelectronic platform.
+    <a href="https://www.nature.com/articles/s41566-023-01310-0" target="_blank" rel="noopener noreferrer">[Link]</a>
+  </span>
+</p>
+
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Sep 2023</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    <span style="color: #c1121f;">Physics Magazine, American Physical Society</span> featured our work in “Handwritten LEDs Light Up the Page.”
+    <a href="https://physics.aps.org/articles/v16/158" target="_blank" rel="noopener noreferrer">[Link]</a>
+  </span>
+</p>
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
-  <span style="color: #555555; font-size: 16px; font-style: italic;"> First-authored paper published in <em>Nature Photonics</em> on soft perovskite optoelectronics</span>
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    <span style="color: #c1121f;"><em>Nature</em> <strong>Research Highlight</strong></span> featured our work in “A rainbow of LEDs adorns objects at the stroke of a pen.”
+    <a href="https://www.nature.com/articles/d41586-023-02655-w" target="_blank" rel="noopener noreferrer">[Link]</a>
+  </span>
+</p>
+
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    <span style="color: #c1121f;">Optics &amp; Photonics News (Optica)</span> featured our work in “Bright Idea? Write It with Perovskite.”
+    <a href="https://www.optica-opn.org/home/newsroom/2023/august/bright_idea_write_it_with_perovskite/?feed=News" target="_blank" rel="noopener noreferrer">[Link]</a>
+  </span>
+</p>
+
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    <span style="color: #c1121f;">WashU The Source</span> featured our work in “Simple ballpoint pen can write custom LEDs.”
+    <a href="https://source.washu.edu/2023/08/simple-ballpoint-pen-can-write-custom-leds/" target="_blank" rel="noopener noreferrer">[Link]</a>
+  </span>
+</p>
+
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    <span style="color: #c1121f;">EurekAlert!</span> featured our work in “Simple ballpoint pen can write custom LEDs.”
+    <a href="https://www.eurekalert.org/news-releases/998307" target="_blank" rel="noopener noreferrer">[Link]</a>
+  </span>
+</p>
+
+<p>
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    First-authored paper published in <em>Nature Photonics</em> on handwritten soft perovskite optoelectronics
+  </span>
 </p>
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2021</strong> —
-  <span style="color: #555555; font-size: 16px; font-style: italic;"> First-authored paper published in <em>Advanced Materials</em> on printed light-emitting-diodes (LEDs)</span>
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    First-authored paper published in <em>Advanced Materials</em> on printed light-emitting diodes (LEDs)
+  </span>
 </p>
 
 <p>
-  <span style="color: #555555; font-size: 16px; font-style: italic;">For a full list, please visit the <a href="/news/">News</a> page.</span>
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    For a full list, please visit the <a href="/news/">News</a> page.
+  </span>
 </p>
 
 
