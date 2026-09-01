@@ -198,7 +198,7 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 
 <p>
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    For a full list, please visit the <a href="/news/">News</a> page.
+    For a full list, please visit the <a href="/news/">News</a> and <a href="/awards/">Awards</a> pages.
   </span>
 </p>
 
