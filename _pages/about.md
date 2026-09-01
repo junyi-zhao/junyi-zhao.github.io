@@ -223,6 +223,6 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
   .visitor-map iframe,
   .visitor-map canvas,
   .visitor-map img {
-    max-width: 50% !important;
+    max-width: 100% !important;
   }
 </style>
