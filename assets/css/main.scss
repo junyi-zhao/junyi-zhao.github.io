@@ -49,3 +49,13 @@
     max-width: 1450px;
   }
 }
+
+/* Widen main page/archive content */
+@media (min-width: 1024px) {
+  .page,
+  .archive {
+    width: 83.333333%;
+    padding-left: 2%;
+    padding-right: 0;
+  }
+}
