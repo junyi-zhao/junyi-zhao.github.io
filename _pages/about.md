@@ -85,7 +85,7 @@ Postdoctoral Scholar, Stanford University, USA
 </p>
 
 <p style="color: #555555; font-size: 16px;">
-<strong>Oct 2023–May 2024</strong><br>
+<strong>2023–2024</strong><br>
 Research Scientist Intern, Meta Reality Labs, USA
 </p>
 
