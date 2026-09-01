@@ -42,14 +42,6 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Custom desktop layout: widen overall content area */
-@media (min-width: 1024px) {
-  .masthead__inner-wrap,
-  #main {
-    max-width: 1450px;
-  }
-}
-
 /* Widen main page/archive content */
 @media (min-width: 1024px) {
   .page,
