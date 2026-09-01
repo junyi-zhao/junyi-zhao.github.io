@@ -81,7 +81,7 @@ Huazhong University of Science and Technology, China
 
 <p style="color: #555555; font-size: 16px;">
 <strong>2025–present</strong><br>
-Postdoctoral Scholar, Stanford University, USA
+Postdoctoral Scholar, Chemical Engineering, Stanford University, USA
 </p>
 
 <p style="color: #555555; font-size: 16px;">
