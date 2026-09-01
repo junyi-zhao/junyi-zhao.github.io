@@ -6,178 +6,312 @@ author_profile: true
 ---
 
 {% include base_path %}
-
----
-layout: archive
-title: "Activities"
-permalink: /activities/
-author_profile: true
----
-
-{% include base_path %}
 <style>
+  /* Overall activities page */
+  .activities-container {
+    width: 100%;
+  }
+
+  /* Each activity */
+  .activity-item {
+    margin-bottom: 3.5rem;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid #e5e5e5;
+  }
+
+  .activity-item:last-child {
+    border-bottom: none;
+  }
+
+  /* Section heading */
+  .activity-section-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+  }
+
+  /* Activity title */
+  .activity-title {
+    font-size: 1.08rem;
+    line-height: 1.4;
+    font-weight: 700;
+    margin: 0 0 0.9rem 0;
+  }
+
+  .activity-date {
+    color: #777777;
+    font-weight: 500;
+    font-size: 0.92em;
+  }
+
+  /* Description */
+  .activity-description {
+    font-size: 0.98rem;
+    line-height: 1.65;
+    color: #444444;
+    margin-bottom: 1.3rem;
+  }
+
+  .activity-description p {
+    margin-top: 0;
+    margin-bottom: 0.8rem;
+  }
+
+  /* Main image */
   .activity-main-image {
-    text-align: center;
+    max-width: 760px;
+    margin: 1.5rem auto 0 auto;
   }
 
   .activity-main-image img {
-    max-width: 700px;
+    display: block;
     width: 100%;
     height: auto;
+    border-radius: 5px;
   }
 
-  .activity-grid-3 {
+  /* Image gallery */
+  .activity-gallery {
+    max-width: 760px;
+    margin: 12px auto 0 auto;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
     gap: 12px;
-    margin-top: 12px;
   }
 
-  .activity-grid-2 {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 12px;
-    margin-top: 12px;
-    max-width: 66.6%;
-    margin-left: auto;
-    margin-right: auto;
+  .activity-gallery-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
-  .activity-thumb {
+  .activity-gallery-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .activity-gallery img {
     width: 100%;
-    height: 280px;
+    aspect-ratio: 4 / 3;
     object-fit: cover;
     display: block;
+    border-radius: 5px;
   }
 
-  .list__item {
-    margin-bottom: 3rem;
+  /* Tablet */
+  @media (max-width: 800px) {
+    .activity-gallery-3 {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
   }
 
-  .list__item:last-of-type {
-    margin-bottom: 0;
+  /* Mobile */
+  @media (max-width: 550px) {
+    .activity-gallery-3,
+    .activity-gallery-2 {
+      grid-template-columns: 1fr;
+    }
+
+    .activity-title {
+      font-size: 1.02rem;
+    }
+
+    .activity-description {
+      font-size: 0.95rem;
+    }
   }
 </style>
 
-
 <hr />
 
-<h3>Outreach</h3>
+<div class="activities-container">
 
-<div class="list__item">
-  <article class="archive__item">
-    <h4>2023 BrightPath STEAM Academy Summer Camp (Jul 2023)</h4>
-    <p>
-      <a href="https://brightpathsteam.org">BrightPath STEAM Academy</a>
-      stands as a solution to the problem of increasing Black/African American
-      representation exposure to STEAM (Science, Technology, Engineering, Arts,
-      and Math) for education equality. The program inspires and opens up
-      Black/African American youth to possibilities that have historically
-      seemed unattainable for many.
-    </p>
+  <h2 class="activity-section-title">Outreach</h2>
 
-    <p class="activity-main-image">
-      <img src="/images/activities/brightpath-2023-1.jpg"
-           alt="2023 BrightPath STEAM Academy Summer Camp">
-    </p>
 
-    <div class="activity-grid-3">
-      <img src="/images/activities/brightpath-2023-2.jpg"
-           alt="BrightPath 2023 photo 2"
-           class="activity-thumb">
-      <img src="/images/activities/brightpath-2023-3.jpg"
-           alt="BrightPath 2023 photo 3"
-           class="activity-thumb">
-      <img src="/images/activities/brightpath-2023-4.jpg"
-           alt="BrightPath 2023 photo 4"
-           class="activity-thumb">
+  <!-- BrightPath 2023 -->
+  <section class="activity-item">
+
+    <h3 class="activity-title">
+      BrightPath STEAM Academy Summer Camp
+      <span class="activity-date">— Jul 2023</span>
+    </h3>
+
+    <div class="activity-description">
+      <p>
+        <a href="https://brightpathsteam.org" target="_blank" rel="noopener noreferrer">
+          BrightPath STEAM Academy
+        </a>
+        works to increase Black/African American youth representation and exposure
+        to STEAM (Science, Technology, Engineering, Arts, and Math), promoting
+        educational equity and expanding access to future opportunities in science
+        and engineering.
+      </p>
     </div>
 
-    <div class="activity-grid-2">
-      <img src="/images/activities/brightpath-2023-5.jpg"
-           alt="BrightPath 2023 photo 5"
-           class="activity-thumb">
-      <img src="/images/activities/brightpath-2023-6.jpg"
-           alt="BrightPath 2023 photo 6"
-           class="activity-thumb">
+    <div class="activity-main-image">
+      <img
+        src="/images/activities/brightpath-2023-1.jpg"
+        alt="2023 BrightPath STEAM Academy Summer Camp"
+        loading="lazy">
     </div>
-  </article>
+
+    <div class="activity-gallery activity-gallery-3">
+      <img
+        src="/images/activities/brightpath-2023-2.jpg"
+        alt="BrightPath 2023 activity"
+        loading="lazy">
+
+      <img
+        src="/images/activities/brightpath-2023-3.jpg"
+        alt="BrightPath 2023 activity"
+        loading="lazy">
+
+      <img
+        src="/images/activities/brightpath-2023-4.jpg"
+        alt="BrightPath 2023 activity"
+        loading="lazy">
+    </div>
+
+    <div class="activity-gallery activity-gallery-2">
+      <img
+        src="/images/activities/brightpath-2023-5.jpg"
+        alt="BrightPath 2023 activity"
+        loading="lazy">
+
+      <img
+        src="/images/activities/brightpath-2023-6.jpg"
+        alt="BrightPath 2023 activity"
+        loading="lazy">
+    </div>
+
+  </section>
+
+
+  <!-- Praxis Week 2023 -->
+  <section class="activity-item">
+
+    <h3 class="activity-title">
+      Praxis Week
+      <span class="activity-date">— Jun 2023</span>
+    </h3>
+
+    <div class="activity-description">
+      <p>
+        During
+        <a href="https://www.jburroughs.org/n/~board/campus-candids/post/praxis-week-2023"
+           target="_blank"
+           rel="noopener noreferrer">
+          Praxis Week
+        </a>,
+        students from John Burroughs School interacted with professional scientists,
+        engineers, and physicians to explore career pathways in fields including
+        data science, biotechnology, engineering, and robotics.
+      </p>
+
+      <p>
+        I participated as a STEM mentor, sharing my research experience and engaging
+        students in discussions about science, engineering, and future career opportunities.
+      </p>
+    </div>
+
+    <div class="activity-main-image">
+      <img
+        src="/images/activities/praxis-2023-1.jpg"
+        alt="2023 Praxis Week"
+        loading="lazy">
+    </div>
+
+    <div class="activity-gallery activity-gallery-2">
+      <img
+        src="/images/activities/praxis-2023-2.jpg"
+        alt="Praxis Week 2023 activity"
+        loading="lazy">
+
+      <img
+        src="/images/activities/praxis-2023-3.jpg"
+        alt="Praxis Week 2023 activity"
+        loading="lazy">
+    </div>
+
+    <div class="activity-gallery activity-gallery-2">
+      <img
+        src="/images/activities/praxis-2023-4.jpg"
+        alt="Praxis Week 2023 activity"
+        loading="lazy">
+
+      <img
+        src="/images/activities/praxis-2023-5.jpg"
+        alt="Praxis Week 2023 activity"
+        loading="lazy">
+    </div>
+
+  </section>
+
+
+  <!-- BrightPath 2022 -->
+  <section class="activity-item">
+
+    <h3 class="activity-title">
+      BrightPath STEAM Academy Summer Camp
+      <span class="activity-date">— Jul 2022</span>
+    </h3>
+
+    <div class="activity-description">
+
+      <p>
+        Participated in the 2022 BrightPath STEAM Academy Summer Camp to engage
+        underrepresented youth in science, technology, engineering, arts, and mathematics.
+      </p>
+
+      <p>
+        <a href="https://brightpathsteam.org/2022-brightpath-steam-academy-1-day-virtual-washu-summer-camp/"
+           target="_blank"
+           rel="noopener noreferrer">[Event]</a>
+
+        &nbsp;
+
+        <a href="https://brightpathsteam.org/"
+           target="_blank"
+           rel="noopener noreferrer">[Program]</a>
+
+        &nbsp;
+
+        <a href="https://www.stltoday.com/pr/news/brightpath-steam-academy-impacts-500-underrepresented-youth-in-st-louis-and-beyond/article_87086202-75d4-11ed-8c09-7fdb8d9faf9f.html"
+           target="_blank"
+           rel="noopener noreferrer">[News]</a>
+      </p>
+
+    </div>
+
+    <div class="activity-main-image">
+      <img
+        src="/images/activities/brightpath-2022-1.jpg"
+        alt="2022 BrightPath STEAM Academy Summer Camp"
+        loading="lazy">
+    </div>
+
+    <div class="activity-gallery activity-gallery-2">
+      <img
+        src="/images/activities/brightpath-2022-2.jpg"
+        alt="BrightPath 2022 activity"
+        loading="lazy">
+
+      <img
+        src="/images/activities/brightpath-2022-3.jpg"
+        alt="BrightPath 2022 activity"
+        loading="lazy">
+    </div>
+
+    <div class="activity-gallery activity-gallery-2">
+      <img
+        src="/images/activities/brightpath-2022-4.jpg"
+        alt="BrightPath 2022 activity"
+        loading="lazy">
+
+      <img
+        src="/images/activities/brightpath-2022-5.jpg"
+        alt="BrightPath 2022 activity"
+        loading="lazy">
+    </div>
+
+  </section>
+
 </div>
-
-<div class="list__item">
-  <article class="archive__item">
-    <h4>2023 Praxis Week (Jun 2023)</h4>
-    <p>
-      A group of JBS students had a chance to interact with professional
-      scientists, engineers, and physicians during
-      <a href="https://www.jburroughs.org/n/~board/campus-candids/post/praxis-week-2023">Praxis Week</a>. Designed and
-      coordinated by STEM liaison Martha Keeley, the program connected 20 upper
-      school students with professionals across fields such as data science,
-      architecture, civil engineering, biotechnology, and robotics engineering.
-    </p>
-    <p>
-      Kudos to these students for spending their first week of summer exploring
-      exciting future possibilities!
-    </p>
-
-    <p class="activity-main-image">
-      <img src="/images/activities/praxis-2023-1.jpg"
-           alt="2023 Praxis Week">
-    </p>
-
-    <div class="activity-grid-2">
-      <img src="/images/activities/praxis-2023-2.jpg"
-           alt="Praxis 2023 photo 2"
-           class="activity-thumb">
-      <img src="/images/activities/praxis-2023-3.jpg"
-           alt="Praxis 2023 photo 3"
-           class="activity-thumb">
-    </div>
-
-    <div class="activity-grid-2">
-      <img src="/images/activities/praxis-2023-4.jpg"
-           alt="Praxis 2023 photo 4"
-           class="activity-thumb">
-      <img src="/images/activities/praxis-2023-5.jpg"
-           alt="Praxis 2023 photo 5"
-           class="activity-thumb">
-    </div>
-  </article>
-</div>
-
-<div class="list__item">
-  <article class="archive__item">
-    <h4>2022 BrightPath STEAM Academy Summer Camp (Jul 2022)</h4>
-    <p>
-      Event web: <a href="https://brightpathsteam.org/2022-brightpath-steam-academy-1-day-virtual-washu-summer-camp/">link</a><br>
-      BrightPath STEAM Academy Program: <a href="https://brightpathsteam.org/">link</a><br>
-      News release:
-      <a href="https://www.stltoday.com/pr/news/brightpath-steam-academy-impacts-500-underrepresented-youth-in-st-louis-and-beyond/article_87086202-75d4-11ed-8c09-7fdb8d9faf9f.html">BrightPath STEAM Academy Impacts 500 Underrepresented Youth in St. Louis and Beyond!</a>
-    </p>
-
-    <p class="activity-main-image">
-      <img src="/images/activities/brightpath-2022-1.jpg"
-           alt="2022 BrightPath STEAM Academy Summer Camp">
-    </p>
-
-    <div class="activity-grid-2">
-      <img src="/images/activities/brightpath-2022-2.jpg"
-           alt="BrightPath 2022 photo 2"
-           class="activity-thumb">
-      <img src="/images/activities/brightpath-2022-3.jpg"
-           alt="BrightPath 2022 photo 3"
-           class="activity-thumb">
-    </div>
-
-    <div class="activity-grid-2">
-      <img src="/images/activities/brightpath-2022-4.jpg"
-           alt="BrightPath 2022 photo 4"
-           class="activity-thumb">
-      <img src="/images/activities/brightpath-2022-5.jpg"
-           alt="BrightPath 2022 photo 5"
-           class="activity-thumb">
-    </div>
-  </article>
-</div>
-
-<hr />
