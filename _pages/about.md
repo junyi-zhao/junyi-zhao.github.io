@@ -207,17 +207,22 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
   <script
     type="text/javascript"
     id="mapmyvisitors"
-    src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=MZn6e4BJ433ydQ6b6V2v0IZ13YrXiwgquCRLQoITNcw">
+    src="https://mapmyvisitors.com/map.js?cl=ffffff&w=700&t=n&d=MZn6e4BJ433ydQ6b6V2v0IZ13YrXiwgquCRLQoITNcw">
   </script>
 </div>
 
 <style>
   .visitor-map {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 3em;
-    min-height: 300px;
-    width: 50%;
+    width: 100%;
+    max-width: 700px;
+    margin: 3em auto 0 auto;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  .visitor-map iframe,
+  .visitor-map canvas,
+  .visitor-map img {
+    max-width: 100% !important;
   }
 </style>
