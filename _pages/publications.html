@@ -18,34 +18,40 @@ author_profile: true
 <hr />
 
 <h2>First-author publications</h2>
+
 {% assign first_author_pubs = site.publications | where: "pub_group", "first_author" | sort: "date" | reverse %}
+
 {% for post in first_author_pubs %}
   <div class="list__item">
     <article class="archive__item">
       <p style="margin-bottom: 0.8em;">
+
         <strong>[{{ forloop.index }}] {{ post.title }}</strong><br>
         {{ post.authors }}<br>
         {{ post.venue_text }}<br>
-        {% if post.paperurl and post.paperurl != "" or post.pdf and post.pdf != "" %}
-          <span>
-  {% if post.paperurl and post.paperurl != "" %}
-    [<a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">Link</a>]
-  {% endif %}
 
-  {% if post.paperurl and post.paperurl != "" and post.pdf and post.pdf != "" %}
-    |
-  {% endif %}
+        <span>
 
-  {% if post.pdf and post.pdf != "" %}
-    [<a href="{{ post.pdf }}" target="_blank" rel="noopener noreferrer">PDF</a>]
-  {% endif %}
+          {% if post.paperurl and post.paperurl != "" %}
+            [<a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">Link</a>]
+          {% endif %}
 
-  {% if post.press_links %}
-    {% for press in post.press_links %}
-      | [<a href="{{ press.url }}" target="_blank" rel="noopener noreferrer">{{ press.label }}</a>]
-    {% endfor %}
-  {% endif %}
-</span>
+          {% if post.paperurl and post.paperurl != "" and post.pdf and post.pdf != "" %}
+            |
+          {% endif %}
+
+          {% if post.pdf and post.pdf != "" %}
+            [<a href="{{ post.pdf }}" target="_blank" rel="noopener noreferrer">PDF</a>]
+          {% endif %}
+
+          {% if post.press_links %}
+            {% for press in post.press_links %}
+              | [<a href="{{ press.url }}" target="_blank" rel="noopener noreferrer">{{ press.label }}</a>]
+            {% endfor %}
+          {% endif %}
+
+        </span>
+
       </p>
     </article>
   </div>
