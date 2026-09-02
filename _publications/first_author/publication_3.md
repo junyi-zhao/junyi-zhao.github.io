@@ -13,12 +13,25 @@ venue_text: "<strong><em>Nature Photonics</em></strong>, Vol. 17, 964–971, 202
 paperurl: "https://www.nature.com/articles/s41566-023-01266-1"
 pdf: "/files/Zhao-2023-Nature Photonics.pdf"
 
-nature_highlight: "https://www.nature.com/articles/d41586-023-02655-w"
-news_views: "https://www.nature.com/articles/s41566-023-01310-0"
-optica_news: "https://www.optica-opn.org/home/newsroom/2023/august/bright_idea_write_it_with_perovskite/?feed=News"
-physics_news: "https://physics.aps.org/articles/v16/158"
-washu_news: "https://source.washu.edu/2023/08/simple-ballpoint-pen-can-write-custom-leds/"
-hec_media: "https://hecmedia.org/posts/engineering-new-ink-for-ballpoint-pens-to-write-custom-leds-on-any-surface-for-high-tech-adavantages"
-eurekalert_news: "https://www.eurekalert.org/news-releases/998307"
----
+press_links:
+  - label: "Nature Highlight"
+    url: "https://www.nature.com/articles/d41586-023-02655-w"
 
+  - label: "Nature Photonics News & Views"
+    url: "https://www.nature.com/articles/s41566-023-01310-0"
+
+  - label: "Optica"
+    url: "https://www.optica-opn.org/home/newsroom/2023/august/bright_idea_write_it_with_perovskite/?feed=News"
+
+  - label: "APS Physics"
+    url: "https://physics.aps.org/articles/v16/158"
+
+  - label: "WashU"
+    url: "https://source.washu.edu/2023/08/simple-ballpoint-pen-can-write-custom-leds/"
+
+  - label: "HEC Media"
+    url: "https://hecmedia.org/posts/engineering-new-ink-for-ballpoint-pens-to-write-custom-leds-on-any-surface-for-high-tech-adavantages"
+
+  - label: "EurekAlert!"
+    url: "https://www.eurekalert.org/news-releases/998307"
+---
