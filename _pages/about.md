@@ -114,7 +114,7 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    First-authored paper published at ACM UIST 2024 on textile-integrated embodied tactile interfaces for robust gesture recognition
+    First-authored paper published at ACM UIST'24 on textile-integrated embodied tactile-interface for robust gesture recognition
   </span>
 </p>
 
