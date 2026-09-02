@@ -145,7 +145,7 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Sep 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    <span style="color: #c1121f;">Physics Magazine, American Physical Society</span> featured our work in “Handwritten LEDs Light Up the Page.”
+    <span style="color: #c1121f;"><strong>Physics Magazine</strong>, American Physical Society</span> featured our work in “Handwritten LEDs Light Up the Page.”
     <a href="https://physics.aps.org/articles/v16/158" target="_blank" rel="noopener noreferrer">[Link]</a>
   </span>
 </p>
@@ -185,14 +185,14 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    First-authored paper published in </strong>Nature Photonics</strong> on handwritten soft perovskite optoelectronics
+    First-authored paper published in <strong>Nature Photonics</strong> on handwritten soft perovskite optoelectronics
   </span>
 </p>
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2021</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    First-authored paper published in <strong>Advanced Materials<</strong> on printed light-emitting diodes (LEDs)
+    First-authored paper published in <strong>Advanced Materials</strong> on printed light-emitting diodes (LEDs)
   </span>
 </p>
 
