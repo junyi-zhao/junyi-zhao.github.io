@@ -14,7 +14,7 @@ paperurl: "https://dl.acm.org/doi/abs/10.1145/3654777.3676344"
 pdf: "/files/TouchpadAnyWear- Textile-Integrated Tactile Sensors for Multimodal High Spatial-Resolution Touch Inputs with Motion Artifacts Tolerance.pdf"
 
 press_links:
-  - label: "Fill-Video"
+  - label: "Fill Video-Figure"
     url: "https://dl.acm.org/doi/10.1145/3654777.3676344"
 
   - label: "UIST-2024 Oral Video"
