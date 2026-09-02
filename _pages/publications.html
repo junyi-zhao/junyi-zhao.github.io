@@ -28,17 +28,24 @@ author_profile: true
         {{ post.venue_text }}<br>
         {% if post.paperurl and post.paperurl != "" or post.pdf and post.pdf != "" %}
           <span>
-            {% if post.paperurl and post.paperurl != "" %}
-              [<a href="{{ post.paperurl }}">Link</a>]
-            {% endif %}
-            {% if post.paperurl and post.paperurl != "" and post.pdf and post.pdf != "" %}
-              |
-            {% endif %}
-            {% if post.pdf and post.pdf != "" %}
-              [<a href="{{ post.pdf }}">PDF</a>]
-            {% endif %}
-          </span>
-        {% endif %}
+  {% if post.paperurl and post.paperurl != "" %}
+    [<a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">Link</a>]
+  {% endif %}
+
+  {% if post.paperurl and post.paperurl != "" and post.pdf and post.pdf != "" %}
+    |
+  {% endif %}
+
+  {% if post.pdf and post.pdf != "" %}
+    [<a href="{{ post.pdf }}" target="_blank" rel="noopener noreferrer">PDF</a>]
+  {% endif %}
+
+  {% if post.press_links %}
+    {% for press in post.press_links %}
+      | [<a href="{{ press.url }}" target="_blank" rel="noopener noreferrer">{{ press.label }}</a>]
+    {% endfor %}
+  {% endif %}
+</span>
       </p>
     </article>
   </div>
