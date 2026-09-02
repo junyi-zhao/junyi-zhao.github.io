@@ -53,10 +53,8 @@ author_profile: true
     grid-template-columns: 100px minmax(0, 1fr);
     column-gap: 1.3rem;
     align-items: start;
-
     margin-bottom: 1.8rem;
     padding-bottom: 1.8rem;
-
     border-bottom: 1px solid #eeeeee;
   }
 
@@ -98,7 +96,6 @@ author_profile: true
     font-size: 1.12rem;
     font-weight: 700;
     line-height: 1.35;
-
     margin-top: 0;
     margin-bottom: 0.45rem;
   }
@@ -127,19 +124,13 @@ author_profile: true
 
 
   /* ==================================================
-     Figures Embedded in Research Excerpts
-
-     IMPORTANT:
-     This controls the large scientific figures shown
-     on the Research overview page only.
+     Preview Figures on /research/ ONLY
      ================================================== */
 
   .research-project-description img {
     display: block;
-
     width: 58% !important;
     max-width: 580px !important;
-
     height: auto !important;
 
     margin-top: 1rem !important;
@@ -164,7 +155,6 @@ author_profile: true
     .research-project {
       grid-template-columns: 80px minmax(0, 1fr);
       column-gap: 1rem;
-
       margin-bottom: 1.4rem;
       padding-bottom: 1.4rem;
     }
@@ -229,12 +219,8 @@ author_profile: true
       {% endunless %}
 
 
-      <!-- Individual Research Project -->
-
       <div class="research-project{% unless post.header.teaser %} no-image{% endunless %}">
 
-
-        <!-- Optional Small Teaser Figure -->
 
         {% if post.header.teaser %}
 
@@ -252,8 +238,6 @@ author_profile: true
 
         {% endif %}
 
-
-        <!-- Research Text -->
 
         <div class="research-project-content">
 
@@ -295,13 +279,10 @@ author_profile: true
 
 {% else %}
 
-
   {% for post in site.research %}
 
     <div class="research-project{% unless post.header.teaser %} no-image{% endunless %}">
 
-
-      <!-- Optional Small Teaser Figure -->
 
       {% if post.header.teaser %}
 
@@ -319,8 +300,6 @@ author_profile: true
 
       {% endif %}
 
-
-      <!-- Research Text -->
 
       <div class="research-project-content">
 
@@ -356,7 +335,6 @@ author_profile: true
     </div>
 
   {% endfor %}
-
 
 {% endif %}
 
