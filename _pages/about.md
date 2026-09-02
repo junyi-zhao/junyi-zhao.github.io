@@ -100,21 +100,21 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    Received the </strong>MRS Graduate Student Award</strong> (Gold)
+    Received the <strong>MRS Graduate Student Award</strong> (Gold)
   </span>
 </p>
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    Selected for the </strong>2024 CAS Future Leaders</strong> 
+    Selected for the <strong>2024 CAS Future Leaders</strong> 
   </span>
 </p>
 
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    First-authored paper published at </strong>ACM UIST'24</strong> on embodied E-textile tactile-interface for robust gesture recognition
+    First-authored paper published at <strong>ACM UIST'24</strong> on embodied E-textile tactile-interface for robust gesture recognition
   </span>
 </p>
 
@@ -137,7 +137,7 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Oct 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    <span style="color: #c1121f;"></strong>Nature Photonics</strong> News &amp; Views</span> highlighted our handwritten perovskite optoelectronic platform.
+    <span style="color: #c1121f;"><strong>Nature Photonics</strong> News &amp; Views</span> highlighted our handwritten perovskite optoelectronic platform.
     <a href="https://www.nature.com/articles/s41566-023-01310-0" target="_blank" rel="noopener noreferrer">[Link]</a>
   </span>
 </p>
@@ -153,7 +153,7 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    <span style="color: #c1121f;"></strong>Nature</strong> Research Highlight</span> featured our work in “A rainbow of LEDs adorns objects at the stroke of a pen.”
+    <span style="color: #c1121f;"><strong>Nature</strong> Research Highlight</span> featured our work in “A rainbow of LEDs adorns objects at the stroke of a pen.”
     <a href="https://www.nature.com/articles/d41586-023-02655-w" target="_blank" rel="noopener noreferrer">[Link]</a>
   </span>
 </p>
@@ -192,7 +192,7 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 <p>
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2021</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    First-authored paper published in </strong>Advanced Materials<</strong> on printed light-emitting diodes (LEDs)
+    First-authored paper published in <strong>Advanced Materials<</strong> on printed light-emitting diodes (LEDs)
   </span>
 </p>
 
