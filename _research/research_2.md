@@ -1,4 +1,3 @@
-
 ---
 title: "TouchpadAnyWear: textile-integrated tactile sensing for embodied interaction"
 
@@ -45,12 +44,25 @@ permalink: /research/touchpadanywear/
 </style>
 
 <div class="touchpad-gif-grid">
-  <img src="/images/research/touchpad_1.gif" alt="TouchpadAnyWear demo 1">
-  <img src="/images/research/touchpad_2.gif" alt="TouchpadAnyWear demo 2">
-  <img src="/images/research/touchpad_3.gif" alt="TouchpadAnyWear demo 3">
-  <img src="/images/research/touchpad_4.gif" alt="TouchpadAnyWear demo 4">
-  <img src="/images/research/touchpad_5.gif" alt="TouchpadAnyWear demo 5">
-  <img src="/images/research/touchpad_6.gif" alt="TouchpadAnyWear demo 6">
+
+  <img src="/images/research/touchpad_1.gif"
+       alt="TouchpadAnyWear demo 1">
+
+  <img src="/images/research/touchpad_2.gif"
+       alt="TouchpadAnyWear demo 2">
+
+  <img src="/images/research/touchpad_3.gif"
+       alt="TouchpadAnyWear demo 3">
+
+  <img src="/images/research/touchpad_4.gif"
+       alt="TouchpadAnyWear demo 4">
+
+  <img src="/images/research/touchpad_5.gif"
+       alt="TouchpadAnyWear demo 5">
+
+  <img src="/images/research/touchpad_6.gif"
+       alt="TouchpadAnyWear demo 6">
+
 </div>
 
 **Junyi Zhao**, P. Preechayasomboon, T. Christensen, A. Memar, Z. Shen, N. Colonnese, M. Knbeis, M. Zhu  
