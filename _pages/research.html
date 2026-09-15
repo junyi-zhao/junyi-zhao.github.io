@@ -26,9 +26,12 @@ author_profile: true
     font-size: 1.35rem;
     font-weight: 700;
     line-height: 1.3;
+
     margin-top: 2.5rem;
     margin-bottom: 0.45rem;
+
     padding-left: 10px;
+
     border-left: 4px solid #c1121f;
   }
 
@@ -39,6 +42,7 @@ author_profile: true
   .research-category-divider {
     margin-top: 0.6rem;
     margin-bottom: 1.5rem;
+
     border: 0;
     border-top: 1px solid #e5e5e5;
   }
@@ -50,11 +54,16 @@ author_profile: true
 
   .research-project {
     display: grid;
+
     grid-template-columns: 100px minmax(0, 1fr);
+
     column-gap: 1.3rem;
+
     align-items: start;
+
     margin-bottom: 1.8rem;
     padding-bottom: 1.8rem;
+
     border-bottom: 1px solid #eeeeee;
   }
 
@@ -73,10 +82,14 @@ author_profile: true
 
   .research-project-image img {
     display: block;
+
     width: 100px;
     max-width: 100px;
+
     height: auto;
+
     object-fit: contain;
+
     border-radius: 3px;
   }
 
@@ -90,12 +103,15 @@ author_profile: true
   }
 
 
-  /* Project Title */
+  /* ==================================================
+     Project Title
+     ================================================== */
 
   .research-project-title {
     font-size: 1.12rem;
     font-weight: 700;
     line-height: 1.35;
+
     margin-top: 0;
     margin-bottom: 0.45rem;
   }
@@ -109,10 +125,13 @@ author_profile: true
   }
 
 
-  /* Description */
+  /* ==================================================
+     Research Description
+     ================================================== */
 
   .research-project-description {
     color: #444444;
+
     font-size: 0.94rem;
     line-height: 1.58;
   }
@@ -124,19 +143,65 @@ author_profile: true
 
 
   /* ==================================================
-     Preview Figures on /research/ ONLY
+     Main Preview Figure
+     Only images inside the excerpt
      ================================================== */
 
   .research-project-description img {
     display: block;
+
     width: 58% !important;
     max-width: 580px !important;
+
     height: auto !important;
 
     margin-top: 1rem !important;
     margin-bottom: 0.3rem !important;
+
     margin-left: auto !important;
     margin-right: auto !important;
+
+    object-fit: contain;
+  }
+
+
+  /* ==================================================
+     GIF Preview Grid
+     IMPORTANT:
+     This is separate from .research-project-description
+     so it is not affected by the 58% image rule above.
+     ================================================== */
+
+  .research-preview-gif-grid {
+    display: grid !important;
+
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+
+    column-gap: 12px;
+    row-gap: 12px;
+
+    width: 90%;
+    max-width: 1000px;
+
+    margin-top: 1.2rem;
+    margin-bottom: 0.4rem;
+
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .research-preview-gif-grid .research-preview-gif {
+    display: block !important;
+
+    width: 100% !important;
+    max-width: none !important;
+
+    height: auto !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    border-radius: 4px;
 
     object-fit: contain;
   }
@@ -146,7 +211,7 @@ author_profile: true
      Mobile
      ================================================== */
 
-  @media (max-width: 650px) {
+  @media (max-width: 700px) {
 
     .research-category-title {
       font-size: 1.25rem;
@@ -154,7 +219,9 @@ author_profile: true
 
     .research-project {
       grid-template-columns: 80px minmax(0, 1fr);
+
       column-gap: 1rem;
+
       margin-bottom: 1.4rem;
       padding-bottom: 1.4rem;
     }
@@ -186,20 +253,42 @@ author_profile: true
       max-width: 100% !important;
     }
 
+    .research-preview-gif-grid {
+      width: 100%;
+
+      grid-template-columns:
+        repeat(2, minmax(0, 1fr)) !important;
+    }
+
+  }
+
+
+  @media (max-width: 450px) {
+
+    .research-preview-gif-grid {
+      grid-template-columns: 1fr !important;
+    }
+
   }
 
 </style>
 
 
+
 <div class="research-main-page">
+
 
 {% if site.research_category %}
 
+
   {% for category in site.research_category %}
+
 
     {% assign title_shown = false %}
 
+
     {% for post in site.research %}
+
 
       {% if post.category != category[0] %}
         {% continue %}
@@ -209,17 +298,32 @@ author_profile: true
       {% unless title_shown %}
 
         <h2 class="research-category-title">
+
           {{ category[1].title }}
+
         </h2>
 
+
         <hr class="research-category-divider">
+
 
         {% assign title_shown = true %}
 
       {% endunless %}
 
 
+
+      <!-- =========================================
+           Individual Research Project
+           ========================================= -->
+
+
       <div class="research-project{% unless post.header.teaser %} no-image{% endunless %}">
+
+
+        <!-- =========================================
+             Optional Small Teaser Figure
+             ========================================= -->
 
 
         {% if post.header.teaser %}
@@ -239,9 +343,17 @@ author_profile: true
         {% endif %}
 
 
+
+        <!-- =========================================
+             Research Content
+             ========================================= -->
+
+
         <div class="research-project-content">
 
+
           <h3 class="research-project-title">
+
 
             {% if post.link %}
 
@@ -257,31 +369,74 @@ author_profile: true
 
             {% endif %}
 
+
           </h3>
+
+
+
+          <!-- Research description + main figure -->
 
 
           {% if post.excerpt %}
 
             <div class="research-project-description">
+
               {{ post.excerpt | markdownify }}
+
             </div>
 
           {% endif %}
 
+
+
+          <!-- 3 x 2 GIF preview grid -->
+
+
+          {% if post.preview_gifs %}
+
+            <div class="research-preview-gif-grid">
+
+              {% for gif in post.preview_gifs %}
+
+                <img
+                  class="research-preview-gif"
+                  src="{{ gif }}"
+                  alt="{{ post.title }} demo {{ forloop.index }}">
+
+              {% endfor %}
+
+            </div>
+
+          {% endif %}
+
+
         </div>
+
 
       </div>
 
+
     {% endfor %}
+
 
   {% endfor %}
 
 
+
 {% else %}
+
+
 
   {% for post in site.research %}
 
+
     <div class="research-project{% unless post.header.teaser %} no-image{% endunless %}">
+
+
+
+      <!-- =========================================
+           Optional Small Teaser Figure
+           ========================================= -->
 
 
       {% if post.header.teaser %}
@@ -301,9 +456,17 @@ author_profile: true
       {% endif %}
 
 
+
+      <!-- =========================================
+           Research Content
+           ========================================= -->
+
+
       <div class="research-project-content">
 
+
         <h3 class="research-project-title">
+
 
           {% if post.link %}
 
@@ -319,23 +482,57 @@ author_profile: true
 
           {% endif %}
 
+
         </h3>
+
+
+
+        <!-- Research description + main figure -->
 
 
         {% if post.excerpt %}
 
           <div class="research-project-description">
+
             {{ post.excerpt | markdownify }}
+
           </div>
 
         {% endif %}
 
+
+
+        <!-- 3 x 2 GIF preview grid -->
+
+
+        {% if post.preview_gifs %}
+
+          <div class="research-preview-gif-grid">
+
+            {% for gif in post.preview_gifs %}
+
+              <img
+                class="research-preview-gif"
+                src="{{ gif }}"
+                alt="{{ post.title }} demo {{ forloop.index }}">
+
+            {% endfor %}
+
+          </div>
+
+        {% endif %}
+
+
       </div>
+
 
     </div>
 
+
   {% endfor %}
 
+
 {% endif %}
+
 
 </div>

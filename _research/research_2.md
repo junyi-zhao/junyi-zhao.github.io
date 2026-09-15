@@ -1,24 +1,22 @@
 ---
 title: "TouchpadAnyWear: textile-integrated tactile sensing for embodied interaction"
 
-excerpt: >-
-  A textile-integrated tactile sensing platform enabling multimodal, high-spatial-resolution touch input and robust gesture recognition under body motion and fabric deformation.
-  <br/>
-  <img src="/images/research/figure_touchpadanywear.png" alt="TouchpadAnyWear overview">
-  <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:10px; width:90%; max-width:900px; margin:1.2rem auto 0 auto;">
-    <img src="/images/research/touchpad_1.gif" alt="TouchpadAnyWear demo 1" style="width:100% !important; max-width:none !important; height:auto !important; margin:0 !important;">
-    <img src="/images/research/touchpad_2.gif" alt="TouchpadAnyWear demo 2" style="width:100% !important; max-width:none !important; height:auto !important; margin:0 !important;">
-    <img src="/images/research/touchpad_3.gif" alt="TouchpadAnyWear demo 3" style="width:100% !important; max-width:none !important; height:auto !important; margin:0 !important;">
-    <img src="/images/research/touchpad_4.gif" alt="TouchpadAnyWear demo 4" style="width:100% !important; max-width:none !important; height:auto !important; margin:0 !important;">
-    <img src="/images/research/touchpad_5.gif" alt="TouchpadAnyWear demo 5" style="width:100% !important; max-width:none !important; height:auto !important; margin:0 !important;">
-    <img src="/images/research/touchpad_6.gif" alt="TouchpadAnyWear demo 6" style="width:100% !important; max-width:none !important; height:auto !important; margin:0 !important;">
-  </div>
+excerpt: "A textile-integrated tactile sensing platform enabling multimodal, high-spatial-resolution touch input and robust gesture recognition under body motion and fabric deformation.<br/><img src='/images/research/figure_touchpadanywear.png'>"
 
 collection: research
 permalink: /research/touchpadanywear/
+
+preview_gifs:
+  - /images/research/touchpad_1.gif
+  - /images/research/touchpad_2.gif
+  - /images/research/touchpad_3.gif
+  - /images/research/touchpad_4.gif
+  - /images/research/touchpad_5.gif
+  - /images/research/touchpad_6.gif
 ---
 
 <style>
+
   .touchpad-main-figure {
     width: 100%;
     max-width: 900px;
@@ -37,8 +35,10 @@ permalink: /research/touchpadanywear/
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 12px;
+
     width: 100%;
     max-width: 900px;
+
     margin: 1.2rem auto 2rem auto;
   }
 
@@ -62,13 +62,16 @@ permalink: /research/touchpadanywear/
       grid-template-columns: 1fr;
     }
   }
+
 </style>
 
 
 <div class="touchpad-main-figure">
+
   <img
     src="/images/research/figure_touchpadanywear.png"
     alt="TouchpadAnyWear textile-integrated tactile sensing for embodied interaction">
+
 </div>
 
 
