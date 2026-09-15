@@ -1,5 +1,5 @@
 ---
-title: "Wearable 3D E-textile for electrophysiology in motion and obstetric care"
+title: "3D E-textile: Wearable electrophysiology in motion and obstetric care"
 excerpt: "An untethered 3D E-textile platform for continuous, noninvasive monitoring of uterine electrophysiology, advancing maternal and women’s health through accessible wearable care. The technology is designed to extend precision monitoring beyond hospitals, with the long-term goal of improving global health and reducing disparities in underserved and low-resource communities.<br/><img src='/images/research/figure_3D_textile_new.png'>"
 collection: research
 permalink: /research/3d-etextile/
