@@ -1,28 +1,31 @@
 ---
-title: "Handwriting perovskite optoelectronic devices on diverse substrates"
-excerpt: "A versatile handwriting strategy for perovskite optoelectronic devices on paper, textiles, plastics, elastomers, and three-dimensional objects.<br/><img src='/images/research/figure_Hand_writing_perovskite.png'>"
+title: "TouchpadAnyWear: textile-integrated tactile sensing for embodied interaction"
+
+excerpt: "A textile-integrated tactile sensing platform enabling multimodal, high-spatial-resolution touch input and robust gesture recognition under body motion and fabric deformation.<br/><img src='/images/research/figure_touchpadanywear.png'>"
+
 collection: research
-permalink: /research/handwriting-perovskite/
+
+permalink: /research/touchpadanywear/
 ---
 
 <p style="text-align: center;">
-  <img src="/images/research/figure_Hand_writing_perovskite.png"
-       alt="Handwriting perovskite optoelectronic devices on diverse substrates"
+
+  <img src="/images/research/figure_touchpadanywear.png"
+
+       alt="TouchpadAnyWear textile-integrated tactile sensing for embodied interaction"
+
        style="max-width: 600px; width: 100%; height: auto;">
+
 </p>
 
+**Junyi Zhao**, P. Preechayasomboon, T. Christensen, A. Memar, Z. Shen, N. Colonnese, M. Knbeis, M. Zhu  
 
-<p style="text-align: center;">
-  <img src="/images/research/figure_Hand_writing_perovskite_2.png"
-       alt="Handwriting perovskite optoelectronic devices on diverse substrates"
-       style="max-width: 400px; width: 100%; height: auto;">
-</p>
+*TouchpadAnyWear: Textile-Integrated Tactile Sensors for Multimodal High Spatial-Resolution Touch Inputs with Motion Artifacts Tolerance.*  
 
+**ACM UIST 2024**  
 
-**Junyi Zhao**, et al.  
-*Handwriting of perovskite optoelectronic devices on diverse substrates.*  
-**Nature Photonics** (2023).  
-[Paper link](https://www.nature.com/articles/s41566-023-01266-1)
+[Paper link](https://dl.acm.org/doi/10.1145/3654777.3676344) | [Video](https://www.youtube.com/watch?v=QlZGT1EEAWI)
 
 **Abstract**  
-Paper and textiles that are commonly used in our daily lives hold great potential as platforms for next-generation flexible and wearable electronics. However, strategies for fabricating light-emitting diodes and photodetectors on different substrates are restricted in terms of their quantity and variety as strict flatness and smoothness are often required. Here we develop a highly versatile, scalable and eco-friendly handwriting approach to draw multicolour perovskite light-emitting diodes and perovskite photodetectors on various substrates, including paper, textiles, plastics, elastomers, rubber and three-dimensional objects. Our method uses common ballpoint pens filled with newly formulated inks of conductive polymers, metal nanowires and multiple perovskites for a wide range of emission colours. Just like writing with multicoloured pens, writing layer-by-layer with these functional inks enables perovskite optoelectronic devices to be realized within minutes. This process can be carried out by individuals without specialized training. The handwritten perovskite light-emitting diodes can exhibit a brightness as high as 15,225 cd m−2, a current efficiency of 6.65 cd A−1 and a turn-on voltage of 2.4 V. The perovskite photodetectors exhibit an on/off ratio of over 10,000 and a responsivity of up to 132 mA W−1. This work offers a route to the integration of perovskite optoelectronics in low-cost and large-area application scenarios such as electronic textiles, electronic paper, smart packaging and other disposable electronics and wearables.
+
+This project developed a textile-integrated tactile sensing platform for high-spatial-resolution, multimodal touch interaction directly on wearable and deformable surfaces. The system combines soft tactile sensing with motion-artifact tolerance to enable robust touch and gesture recognition during natural body movement and fabric deformation. By integrating sensing functionality directly into textiles, TouchpadAnyWear transforms garments and other soft surfaces into embodied human–computer interfaces for intuitive, unobtrusive, and wearable interaction.

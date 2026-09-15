@@ -1,21 +1,20 @@
 ---
-title: "Flexible CNT synaptic transistor for neurological E-skin"
-excerpt: "Flexible carbon nanotube synaptic transistors for neurological electronic skin applications.<br/><img src='/images/research/figure_Synaptic_transistors.png'>"
+title: "Stretchable sponge electrodes for high-quality electrophysiologic recording"
+excerpt: "Porous stretchable electrodes for long-term and motion-artifact-tolerant recording of high-quality electrophysiologic signals.<br/><img src='/images/research/figure_stretchable_sponge.png'>"
 collection: research
-permalink: /research/synaptic-transistor/
+permalink: /research/sponge-electrodes/
 ---
 
 <p style="text-align: center;">
-  <img src="/images/research/figure_Synaptic_transistors.png"
-       alt="Flexible CNT synaptic transistor for neurological E-skin"
+  <img src="/images/research/figure_stretchable_sponge.png"
+       alt="Stretchable sponge electrodes for electrophysiologic recording"
        style="max-width: 600px; width: 100%; height: auto;">
 </p>
 
-
-H. Wan, Y. Cao, L. W. Lo, **J. Zhao**, et al.  
-*Flexible carbon nanotube synaptic transistor for neurological electronic skin applications.*  
-**ACS Nano** 14, 10402–10412 (2020).  
-[Paper link](https://pubs.acs.org/doi/full/10.1021/acsami.1c00537)
+L. W. Lo, **J. Zhao**, et al.  
+*Stretchable sponge electrodes for long-term and motion-artifact-tolerant recording of high-quality electrophysiologic signals.*  
+**ACS Nano** 16, 11792–11801 (2022).  
+[Paper link](https://pubs.acs.org/doi/full/10.1021/acsnano.2c04962)
 
 **Abstract**  
-A stretchable conductor is one of the key components in soft electronics that allows the seamless integration of electronic devices and sensors on elastic substrates. Its unique advantages of mechanical flexibility and stretchability have enabled a variety of wearable bioelectronic devices that can conformably adapt to curved skin surfaces for long-term health monitoring applications. Here, we report a poly(3,4-ethylenedioxythiophene) polystyrene sulfonate (PEDOT:PSS)-based stretchable polymer blend that can be patterned using an inkjet printing process while exhibiting low sheet resistance and accommodating large mechanical deformations. We have systematically studied the effect of various types of polar solvent additives that can help induce phase separation of PEDOT and PSS grains and change the conformation of a PEDOT chain, thereby improving the electrical property of the film by facilitating charge hopping along the percolating PEDOT network. The optimal ink formulation is achieved by adding 5 wt % ethylene glycol into a pristine PEDOT:PSS aqueous solution, which results in a sheet resistance of as low as 58 Ω/□. Elasticity can also be achieved by blending the above solution with the soft polymer poly(ethylene oxide) (PEO). Thin films of PEDOT:PSS/PEO polymer blends patterned by inkjet printing exhibits a low sheet resistance of 84 Ω/□ and can resist up to 50% tensile strain with minimal changes in electrical performance. With its good conductivity and elasticity, we have further demonstrated the use of the polymer blend as stretchable interconnects and stretchable dry electrodes on a thin polydimethylsiloxane (PDMS) substrate for photoplethysmography (PPG) and electrocardiography (ECG) recording applications. This work shows the potential of using a printed stretchable conducting polymer in low-cost wearable sensor patches for smart health applications.
+Soft electronic devices and sensors have shown great potential for wearable and ambulatory electrophysiologic signal monitoring applications due to their light weight, ability to conform to human skin, and improved wearing comfort, and they may replace the conventional rigid electrodes and bulky recording devices widely used nowadays in clinical settings. Herein, we report an elastomeric sponge electrode that offers greatly reduced electrode–skin contact impedance, an improved signal-to-noise ratio (SNR), and is ideally suited for long-term and motion-artifact-tolerant recording of high-quality biopotential signals. The sponge electrode utilizes a porous polydimethylsiloxane sponge made from a sacrificial template of sugar cubes, and it is subsequently coated with a poly(3,4-ethylenedioxythiophene) polystyrenesulfonate (PEDOT:PSS) conductive polymer using a simple dip-coating process. The sponge electrode contains numerous micropores that greatly increase the skin–electrode contact area and help lower the contact impedance by a factor of 5.25 or 6.7 compared to planar PEDOT:PSS electrodes or gold-standard Ag/AgCl electrodes, respectively. The lowering of contact impedance resulted in high-quality electrocardiogram (ECG) and electromyogram (EMG) recordings with improved SNR. Furthermore, the porous structure also allows the sponge electrode to hold significantly more conductive gel compared to conventional planar electrodes, thereby allowing them to be used for long recording sessions with minimal signal degradation. The conductive gel absorbed into the micropores also serves as a buffer layer to help mitigate motion artifacts, which is crucial for recording on ambulatory patients. Lastly, to demonstrate its feasibility and potential for clinical usage, we have shown that the sponge electrode can be used to monitor uterine contraction activities from a patient in labor. With its low-cost fabrication, softness, and ability to record high SNR biopotential signals, the sponge electrode is a promising platform for long-term wearable health monitoring applications.

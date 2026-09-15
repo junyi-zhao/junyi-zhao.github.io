@@ -1,21 +1,21 @@
 ---
-title: "Soft sponge sensor for multimodal sensing"
-excerpt: "A soft sponge sensor capable of distinguishing pressure, strain, and temperature through multimodal electrical readout.<br/><img src='/images/research/figure_Soft_Sponge.png'>"
+title: "Printed perovskite LEDs on elastomer substrates"
+excerpt: "Inkjet-printed perovskite light-emitting diodes on elastic substrates for wearable and deformable optoelectronics.<br/><img src='/images/research/figure_Printed_perovskite_LEDs.png'>"
 collection: research
-permalink: /research/sponge-sensor/
+permalink: /research/perovskite-leds/
 ---
 
 <p style="text-align: center;">
-  <img src="/images/research/figure_Soft_Sponge.png"
-       alt="Soft sponge sensor for multimodal sensing"
+  <img src="/images/research/figure_Printed_perovskite_LEDs.png"
+       alt="Printed perovskite LEDs"
        style="max-width: 600px; width: 100%; height: auto;">
 </p>
 
-L. W. Lo, **J. Zhao**, et al.  
-*A soft sponge sensor for multimodal sensing and distinguishing of pressure, strain, and temperature.*  
-**ACS Applied Materials & Interfaces** 14, 9570–9578 (2022).  
-[Paper link](https://pubs.acs.org/doi/10.1021/acsami.1c21003E)
+**Junyi Zhao**, et al.  
+*High-Speed Fabrication of All-Inkjet-Printed Organometallic Halide Perovskite Light-Emitting Diodes on Elastic Substrates.*  
+**Advanced Materials** 33, 2102095 (2021).  
+[Paper link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202102095)
 
 **Abstract**  
-Abstract
-Soft wearable sensors are essential components for applications such as motion tracking, human−machine interface, and soft robots. However, most of the reported sensors are either specifically designed to target an individual stimulus or capable of responding to multiple stimuli (e.g., pressure and strain) but without the necessary selectivity to distinguish those stimuli. Here we report an elastomeric sponge-based sensor that can respond to and distinguish three different kinds of stimuli: pressure, strain, and temperature. The sensor utilizes a porous polydimethylsiloxane (PDMS) sponge fabricated from a sugar cube sacrificial template, which was subsequently coated with a poly(3,4-ethylenedioxythiophene) polystyrene sulfonate(PEDOT:PSS) conductive polymer through a low-cost dip-coating process. Responses to different types of stimuli can be distinguished by simultaneously recording resistance and capacitance changes. Because pressure, tensile strain, and temperature change result in different trends in resistance and capacitance change, those stimuli can be clearly distinguished from each other by simultaneously measuring the resistance and capacitance of the sensor. We have also studied the effect of the pore size on the sensor performance and have found that the sponge sensor with smaller pores generally offers greater resistance change and better sensitivity. As a proof-of-concept, we have demonstrated the use of the porous sponge sensor on an artificial hand for object detection, gesture recognition, and temperature sensing applications.
+Halide perovskites have great potential for use in high-performance light-emitting diodes (LEDs) and displays. Here, a perovskite LEDs (PeLEDs) fabricated directly on an elastomer substrate, in which every single layer in the device from bottom anode to top cathode is patterned solely using a highly scalable inkjet printing process, is reported. Compared to PeLEDs made using conventional microfabrication processes, the printing process significantly shortens the fabrication time by at least tenfold (from over 5 h to less than 25 min). The all-printed PeLEDs have a novel 4-layer structure (bottom electrode, perovskite emissive layer, buffer layer, top electrode) without separate electron or hole transporting layers. For flexible PeLEDs printed directly in ambient conditions, a turn-on voltage, maximum luminance intensity, and maximum current efficiency of 3.46 V, 10227 cd m−2, and 2.01 cd A−1, respectively, is achieved. The devices also exhibit excellent robustness and stability even when bent to a curvature radius of 2.5 mm. The reported device structure and fabrication processes can enable high-performance flexible PeLEDs to be manufactured over a larger area at extremely low cost and fast speed, which can facilitate the adoption of the promising PeLED technology in the emerging foldable displays, smart wearables, and many other applications.
+

@@ -1,21 +1,28 @@
 ---
-title: "Printed perovskite LEDs on elastomer substrates"
-excerpt: "Inkjet-printed perovskite light-emitting diodes on elastic substrates for wearable and deformable optoelectronics.<br/><img src='/images/research/figure_Printed_perovskite_LEDs.png'>"
+title: "Handwriting perovskite optoelectronic devices on diverse substrates"
+excerpt: "A versatile handwriting strategy for perovskite optoelectronic devices on paper, textiles, plastics, elastomers, and three-dimensional objects.<br/><img src='/images/research/figure_Hand_writing_perovskite.png'>"
 collection: research
-permalink: /research/perovskite-leds/
+permalink: /research/handwriting-perovskite/
 ---
 
 <p style="text-align: center;">
-  <img src="/images/research/figure_Printed_perovskite_LEDs.png"
-       alt="Printed perovskite LEDs"
+  <img src="/images/research/figure_Hand_writing_perovskite.png"
+       alt="Handwriting perovskite optoelectronic devices on diverse substrates"
        style="max-width: 600px; width: 100%; height: auto;">
 </p>
 
+
+<p style="text-align: center;">
+  <img src="/images/research/figure_Hand_writing_perovskite_2.png"
+       alt="Handwriting perovskite optoelectronic devices on diverse substrates"
+       style="max-width: 400px; width: 100%; height: auto;">
+</p>
+
+
 **Junyi Zhao**, et al.  
-*High-Speed Fabrication of All-Inkjet-Printed Organometallic Halide Perovskite Light-Emitting Diodes on Elastic Substrates.*  
-**Advanced Materials** 33, 2102095 (2021).  
-[Paper link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202102095)
+*Handwriting of perovskite optoelectronic devices on diverse substrates.*  
+**Nature Photonics** (2023).  
+[Paper link](https://www.nature.com/articles/s41566-023-01266-1)
 
 **Abstract**  
-Halide perovskites have great potential for use in high-performance light-emitting diodes (LEDs) and displays. Here, a perovskite LEDs (PeLEDs) fabricated directly on an elastomer substrate, in which every single layer in the device from bottom anode to top cathode is patterned solely using a highly scalable inkjet printing process, is reported. Compared to PeLEDs made using conventional microfabrication processes, the printing process significantly shortens the fabrication time by at least tenfold (from over 5 h to less than 25 min). The all-printed PeLEDs have a novel 4-layer structure (bottom electrode, perovskite emissive layer, buffer layer, top electrode) without separate electron or hole transporting layers. For flexible PeLEDs printed directly in ambient conditions, a turn-on voltage, maximum luminance intensity, and maximum current efficiency of 3.46 V, 10227 cd m−2, and 2.01 cd A−1, respectively, is achieved. The devices also exhibit excellent robustness and stability even when bent to a curvature radius of 2.5 mm. The reported device structure and fabrication processes can enable high-performance flexible PeLEDs to be manufactured over a larger area at extremely low cost and fast speed, which can facilitate the adoption of the promising PeLED technology in the emerging foldable displays, smart wearables, and many other applications.
-
+Paper and textiles that are commonly used in our daily lives hold great potential as platforms for next-generation flexible and wearable electronics. However, strategies for fabricating light-emitting diodes and photodetectors on different substrates are restricted in terms of their quantity and variety as strict flatness and smoothness are often required. Here we develop a highly versatile, scalable and eco-friendly handwriting approach to draw multicolour perovskite light-emitting diodes and perovskite photodetectors on various substrates, including paper, textiles, plastics, elastomers, rubber and three-dimensional objects. Our method uses common ballpoint pens filled with newly formulated inks of conductive polymers, metal nanowires and multiple perovskites for a wide range of emission colours. Just like writing with multicoloured pens, writing layer-by-layer with these functional inks enables perovskite optoelectronic devices to be realized within minutes. This process can be carried out by individuals without specialized training. The handwritten perovskite light-emitting diodes can exhibit a brightness as high as 15,225 cd m−2, a current efficiency of 6.65 cd A−1 and a turn-on voltage of 2.4 V. The perovskite photodetectors exhibit an on/off ratio of over 10,000 and a responsivity of up to 132 mA W−1. This work offers a route to the integration of perovskite optoelectronics in low-cost and large-area application scenarios such as electronic textiles, electronic paper, smart packaging and other disposable electronics and wearables.
