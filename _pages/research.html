@@ -9,185 +9,320 @@ author_profile: true
 
 <style>
 
-  /* ==================================================
-     Overall Research Page
-     ================================================== */
+/* ==================================================
+   OVERALL RESEARCH PAGE
+   ================================================== */
 
-  .research-main-page {
-    width: 100%;
-  }
-
-
-  /* ==================================================
-     Research Category Heading
-     ================================================== */
-
-  .research-category-title {
-    font-size: 1.35rem;
-    font-weight: 700;
-    line-height: 1.3;
-
-    margin-top: 2.5rem;
-    margin-bottom: 0.45rem;
-
-    padding-left: 10px;
-
-    border-left: 4px solid #c1121f;
-  }
-
-  .research-category-title:first-of-type {
-    margin-top: 1rem;
-  }
-
-  .research-category-divider {
-    margin-top: 0.6rem;
-    margin-bottom: 1.5rem;
-
-    border: 0;
-    border-top: 1px solid #e5e5e5;
-  }
+.research-main-page {
+  width: 100%;
+}
 
 
-  /* ==================================================
-     Individual Research Project
-     ================================================== */
+/* ==================================================
+   CATEGORY TITLE
+   ================================================== */
 
-  .research-project {
-    display: grid;
+.research-category-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.3;
 
-    grid-template-columns: 100px minmax(0, 1fr);
+  margin-top: 2.5rem;
+  margin-bottom: 0.45rem;
 
-    column-gap: 1.3rem;
+  padding-left: 10px;
 
-    align-items: start;
+  border-left: 4px solid #c1121f;
+}
 
-    margin-bottom: 1.8rem;
-    padding-bottom: 1.8rem;
+.research-category-title:first-of-type {
+  margin-top: 1rem;
+}
 
-    border-bottom: 1px solid #eeeeee;
-  }
+.research-category-divider {
+  margin-top: 0.6rem;
+  margin-bottom: 1.5rem;
 
-  .research-project.no-image {
-    grid-template-columns: 1fr;
-  }
-
-
-  /* ==================================================
-     Optional Small Teaser Figure
-     ================================================== */
-
-  .research-project-image {
-    width: 100px;
-  }
-
-  .research-project-image img {
-    display: block;
-
-    width: 100px;
-    max-width: 100px;
-
-    height: auto;
-
-    object-fit: contain;
-
-    border-radius: 3px;
-  }
+  border: 0;
+  border-top: 1px solid #e5e5e5;
+}
 
 
-  /* ==================================================
-     Research Text
-     ================================================== */
+/* ==================================================
+   INDIVIDUAL RESEARCH PROJECT
+   ================================================== */
 
-  .research-project-content {
-    min-width: 0;
-  }
+.research-project {
+  display: grid;
 
+  grid-template-columns: 100px minmax(0, 1fr);
 
-  /* ==================================================
-     Project Title
-     ================================================== */
+  column-gap: 1.3rem;
 
-  .research-project-title {
-    font-size: 1.12rem;
-    font-weight: 700;
-    line-height: 1.35;
+  align-items: start;
 
-    margin-top: 0;
-    margin-bottom: 0.45rem;
-  }
+  margin-bottom: 1.8rem;
+  padding-bottom: 1.8rem;
 
-  .research-project-title a {
-    text-decoration: none;
-  }
+  border-bottom: 1px solid #eeeeee;
+}
 
-  .research-project-title a:hover {
-    color: #c1121f;
-  }
+.research-project.no-image {
+  grid-template-columns: 1fr;
+}
 
 
-  /* ==================================================
-     Research Description
-     ================================================== */
+/* ==================================================
+   OPTIONAL SMALL TEASER IMAGE
+   ================================================== */
 
-  .research-project-description {
-    color: #444444;
+.research-project-image {
+  width: 100px;
+}
 
-    font-size: 0.94rem;
-    line-height: 1.58;
-  }
-
-  .research-project-description p {
-    margin-top: 0;
-    margin-bottom: 0.55rem;
-  }
-
-
-  /* ==================================================
-     Main Preview Figure
-     Only images inside the excerpt
-     ================================================== */
-
-.research-project-description img {
+.research-project-image img {
   display: block;
 
-  width: 68% !important;
-  max-width: 680px !important;
+  width: 100px;
+  max-width: 100px;
+
+  height: auto;
+
+  object-fit: contain;
+
+  border-radius: 3px;
+}
+
+
+/* ==================================================
+   PROJECT CONTENT
+   ================================================== */
+
+.research-project-content {
+  min-width: 0;
+  width: 100%;
+}
+
+
+/* ==================================================
+   PROJECT TITLE
+   ================================================== */
+
+.research-project-title {
+  font-size: 1.12rem;
+  font-weight: 700;
+  line-height: 1.35;
+
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+}
+
+.research-project-title a {
+  text-decoration: none;
+}
+
+.research-project-title a:hover {
+  color: #c1121f;
+}
+
+
+/* ==================================================
+   DESCRIPTION
+   ================================================== */
+
+.research-project-description {
+  color: #444444;
+
+  font-size: 0.94rem;
+  line-height: 1.58;
+
+  width: 100%;
+}
+
+.research-project-description p {
+  margin-top: 0;
+  margin-bottom: 0.55rem;
+}
+
+
+/* ==================================================
+   MAIN RESEARCH FIGURE
+   ================================================== */
+
+.research-project-description img {
+  display: block !important;
+
+  width: 72% !important;
+  max-width: 720px !important;
 
   height: auto !important;
 
-  margin-top: 1rem !important;
-  margin-bottom: 0.5rem !important;
+  margin-top: 1.1rem !important;
+  margin-bottom: 0.7rem !important;
 
   margin-left: auto !important;
   margin-right: auto !important;
 
-  object-fit: contain;
+  object-fit: contain !important;
 }
 
-  /* ==================================================
-     GIF Preview Grid
-     IMPORTANT:
-     This is separate from .research-project-description
-     so it is not affected by the 58% image rule above.
-     ================================================== */
 
-  .research-preview-gif-grid {
-    display: grid !important;
+/* ==================================================
+   GIF PREVIEW GRID
 
-    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+   Desktop:
+   3 columns x 2 rows
 
-    column-gap: 12px;
-    row-gap: 12px;
+   Mobile:
+   2 columns x 3 rows
+   ================================================== */
 
-    width: 90%;
-    max-width: 1000px;
+.research-preview-gif-grid {
+  display: grid !important;
 
-    margin-top: 1.2rem;
-    margin-bottom: 0.4rem;
+  grid-template-columns:
+    repeat(3, minmax(0, 1fr)) !important;
+
+  gap: 12px !important;
+
+  width: 100% !important;
+  max-width: 1100px !important;
+
+  margin-top: 1.2rem !important;
+  margin-bottom: 0.8rem !important;
+
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+
+/* Individual GIF */
+
+.research-preview-gif-grid .research-preview-gif {
+  display: block !important;
+
+  width: 100% !important;
+  max-width: none !important;
+
+  height: auto !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  border-radius: 4px;
+
+  object-fit: contain !important;
+}
+
+
+/* ==================================================
+   TABLET + MOBILE
+   ================================================== */
+
+@media (max-width: 700px) {
+
+  .research-category-title {
+    font-size: 1.25rem;
+  }
+
+
+  /*
+     On mobile, remove the small left teaser-column layout
+     so the content gets the full phone width.
+  */
+
+  .research-project {
+    display: block !important;
+
+    width: 100% !important;
+
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+
+
+  /*
+     If a project has a header teaser,
+     show it above the text instead of beside it.
+  */
+
+  .research-project-image {
+    width: 100% !important;
+
+    margin-bottom: 0.8rem;
+  }
+
+  .research-project-image img {
+    width: 100% !important;
+    max-width: 180px !important;
+
+    height: auto !important;
 
     margin-left: auto;
     margin-right: auto;
   }
+
+
+  .research-project-content {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+
+  .research-project-title {
+    font-size: 1.02rem;
+  }
+
+
+  .research-project-description {
+    font-size: 0.91rem;
+    line-height: 1.5;
+
+    width: 100% !important;
+  }
+
+
+  /*
+     Main research figure on mobile
+  */
+
+  .research-project-description img {
+    width: 96% !important;
+    max-width: 96% !important;
+
+    height: auto !important;
+
+    margin-top: 1rem !important;
+    margin-bottom: 0.8rem !important;
+
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+
+  /*
+     GIF grid:
+     always 2 columns on mobile
+  */
+
+  .research-preview-gif-grid {
+    display: grid !important;
+
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr)) !important;
+
+    gap: 8px !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin-top: 1rem !important;
+    margin-bottom: 0.7rem !important;
+
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
 
   .research-preview-gif-grid .research-preview-gif {
     display: block !important;
@@ -198,80 +333,42 @@ author_profile: true
     height: auto !important;
 
     margin: 0 !important;
-    padding: 0 !important;
+  }
 
-    border-radius: 4px;
+}
 
-    object-fit: contain;
+
+/* ==================================================
+   SMALL PHONES
+   STILL KEEP 2 COLUMNS
+   ================================================== */
+
+@media (max-width: 450px) {
+
+  .research-preview-gif-grid {
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr)) !important;
+
+    gap: 6px !important;
+
+    width: 100% !important;
   }
 
 
-  /* ==================================================
-     Mobile
-     ================================================== */
-
-  @media (max-width: 700px) {
-
-    .research-category-title {
-      font-size: 1.25rem;
-    }
-
-    .research-project {
-      grid-template-columns: 80px minmax(0, 1fr);
-
-      column-gap: 1rem;
-
-      margin-bottom: 1.4rem;
-      padding-bottom: 1.4rem;
-    }
-
-    .research-project.no-image {
-      grid-template-columns: 1fr;
-    }
-
-    .research-project-image {
-      width: 80px;
-    }
-
-    .research-project-image img {
-      width: 80px;
-      max-width: 80px;
-    }
-
-    .research-project-title {
-      font-size: 1.02rem;
-    }
-
-    .research-project-description {
-      font-size: 0.91rem;
-      line-height: 1.5;
-    }
-
-    .research-project-description img {
-      width: 90% !important;
-      max-width: 100% !important;
-    }
-
-    .research-preview-gif-grid {
-      width: 100%;
-
-      grid-template-columns:
-        repeat(2, minmax(0, 1fr)) !important;
-    }
-
+  .research-preview-gif-grid .research-preview-gif {
+    width: 100% !important;
+    max-width: none !important;
   }
 
 
-  @media (max-width: 450px) {
-
-    .research-preview-gif-grid {
-      grid-template-columns: 1fr !important;
-    }
-
+  .research-project-description img {
+    width: 98% !important;
+    max-width: 98% !important;
   }
+
+}
 
 </style>
-
 
 
 <div class="research-main-page">
@@ -279,15 +376,12 @@ author_profile: true
 
 {% if site.research_category %}
 
-
   {% for category in site.research_category %}
-
 
     {% assign title_shown = false %}
 
 
     {% for post in site.research %}
-
 
       {% if post.category != category[0] %}
         {% continue %}
@@ -297,14 +391,10 @@ author_profile: true
       {% unless title_shown %}
 
         <h2 class="research-category-title">
-
           {{ category[1].title }}
-
         </h2>
 
-
         <hr class="research-category-divider">
-
 
         {% assign title_shown = true %}
 
@@ -312,17 +402,7 @@ author_profile: true
 
 
 
-      <!-- =========================================
-           Individual Research Project
-           ========================================= -->
-
-
       <div class="research-project{% unless post.header.teaser %} no-image{% endunless %}">
-
-
-        <!-- =========================================
-             Optional Small Teaser Figure
-             ========================================= -->
 
 
         {% if post.header.teaser %}
@@ -343,16 +423,10 @@ author_profile: true
 
 
 
-        <!-- =========================================
-             Research Content
-             ========================================= -->
-
-
         <div class="research-project-content">
 
 
           <h3 class="research-project-title">
-
 
             {% if post.link %}
 
@@ -368,12 +442,8 @@ author_profile: true
 
             {% endif %}
 
-
           </h3>
 
-
-
-          <!-- Research description + main figure -->
 
 
           {% if post.excerpt %}
@@ -386,9 +456,6 @@ author_profile: true
 
           {% endif %}
 
-
-
-          <!-- 3 x 2 GIF preview grid -->
 
 
           {% if post.preview_gifs %}
@@ -425,17 +492,10 @@ author_profile: true
 {% else %}
 
 
-
   {% for post in site.research %}
 
 
     <div class="research-project{% unless post.header.teaser %} no-image{% endunless %}">
-
-
-
-      <!-- =========================================
-           Optional Small Teaser Figure
-           ========================================= -->
 
 
       {% if post.header.teaser %}
@@ -456,16 +516,10 @@ author_profile: true
 
 
 
-      <!-- =========================================
-           Research Content
-           ========================================= -->
-
-
       <div class="research-project-content">
 
 
         <h3 class="research-project-title">
-
 
           {% if post.link %}
 
@@ -481,12 +535,8 @@ author_profile: true
 
           {% endif %}
 
-
         </h3>
 
-
-
-        <!-- Research description + main figure -->
 
 
         {% if post.excerpt %}
@@ -499,9 +549,6 @@ author_profile: true
 
         {% endif %}
 
-
-
-        <!-- 3 x 2 GIF preview grid -->
 
 
         {% if post.preview_gifs %}
