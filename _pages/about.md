@@ -143,19 +143,24 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
   </span>
 </p>
 
+
 <div class="news-item">
 
-  <span class="news-type-icon paper">
-    <i class="fas fa-file-alt"></i>
-  </span>
+  <div class="news-prefix">
 
-  <span class="news-date">Jul 2024</span>
+    <span class="news-type-icon paper">
+      <i class="fas fa-file-alt"></i>
+    </span>
 
-  <span class="news-dash">—</span>
+    <span class="news-date">Jul 2024</span>
 
-  <span class="news-text">
+    <span class="news-dash">—</span>
+
+  </div>
+
+  <div class="news-text">
     First-authored paper published on <strong>arXiv</strong> on a wearable sensing platform for monitoring maternal uterine physiology and enabling earlier assessment of preterm-birth risk.
-  </span>
+  </div>
 
 </div>
 
