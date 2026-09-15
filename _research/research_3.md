@@ -1,20 +1,21 @@
 ---
-title: "3D E-textile systems for exercise physiology and maternal monitoring"
-excerpt: "Wearable 3D E-textile bioelectronics for robust dry electrophysiological monitoring in both exercise physiology and maternal health applications.<br/><img src='/images/research/figure_3D_textile.png'>"
+title: "Printed perovskite LEDs on elastomer substrates"
+excerpt: "Inkjet-printed perovskite light-emitting diodes on elastic substrates for wearable and deformable optoelectronics.<br/><img src='/images/research/figure_Printed_perovskite_LEDs.png'>"
 collection: research
-permalink: /research/3d-etextile/
+permalink: /research/perovskite-leds/
 ---
 
 <p style="text-align: center;">
-  <img src="/images/research/figure_3D_textile.png"
-       alt="3D E-textile systems for exercise physiology and maternal monitoring"
+  <img src="/images/research/figure_Printed_perovskite_LEDs.png"
+       alt="Printed perovskite LEDs"
        style="max-width: 400px; width: 100%; height: auto;">
 </p>
 
 **Junyi Zhao**, et al.  
-*Waterproof and gel-free 3D E-textile systems for exercise physiology and clinical maternal health monitoring.*  
-**2024** (2024).  
-[Paper link](https://arxiv.org/abs/2407.07954)
+*High-Speed Fabrication of All-Inkjet-Printed Organometallic Halide Perovskite Light-Emitting Diodes on Elastic Substrates.*  
+**Advanced Materials** 33, 2102095 (2021).  
+[Paper link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202102095)
 
 **Abstract**  
-This project developed a wearable 3D E-textile bioelectronic platform for robust dry electrophysiological monitoring in both exercise physiology and maternal health settings. The system combines low-impedance dry interfacing, motion-artifact tolerance, and real-world wearable usability for continuous and comfortable biopotential recording.
+Halide perovskites have great potential for use in high-performance light-emitting diodes (LEDs) and displays. Here, a perovskite LEDs (PeLEDs) fabricated directly on an elastomer substrate, in which every single layer in the device from bottom anode to top cathode is patterned solely using a highly scalable inkjet printing process, is reported. Compared to PeLEDs made using conventional microfabrication processes, the printing process significantly shortens the fabrication time by at least tenfold (from over 5 h to less than 25 min). The all-printed PeLEDs have a novel 4-layer structure (bottom electrode, perovskite emissive layer, buffer layer, top electrode) without separate electron or hole transporting layers. For flexible PeLEDs printed directly in ambient conditions, a turn-on voltage, maximum luminance intensity, and maximum current efficiency of 3.46 V, 10227 cd m−2, and 2.01 cd A−1, respectively, is achieved. The devices also exhibit excellent robustness and stability even when bent to a curvature radius of 2.5 mm. The reported device structure and fabrication processes can enable high-performance flexible PeLEDs to be manufactured over a larger area at extremely low cost and fast speed, which can facilitate the adoption of the promising PeLED technology in the emerging foldable displays, smart wearables, and many other applications.
+
