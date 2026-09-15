@@ -1,5 +1,5 @@
 ---
-title: "3D E-textile systems for exercise physiology and maternal monitoring"
+title: "Wearable 3D E-textile for electrophysiology in motion and obstetric care"
 excerpt: "Wearable 3D E-textile bioelectronics for robust dry electrophysiological monitoring in both exercise physiology and maternal health applications.<br/><img src='/images/research/figure_3D_textile_new.png'>"
 collection: research
 permalink: /research/3d-etextile/
@@ -7,7 +7,7 @@ permalink: /research/3d-etextile/
 
 <p style="text-align: center;">
   <img src="/images/research/figure_3D_textile_new.png"
-       alt="3D E-textile systems for exercise physiology and maternal monitoring"
+       alt="Wearable 3D E-textile for electrophysiology in motion and obstetric care"
        style="max-width: 400px; width: 100%; height: auto;">
 </p>
 
