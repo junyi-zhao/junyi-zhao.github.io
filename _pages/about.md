@@ -24,7 +24,7 @@ redirect_from:
 
 
 <p style="color: #555555; font-size: 16px;">
-I am <strong>Junyi Zhao</strong>, a Postdoctoral Scholar at Stanford University. I received my Ph.D. in Electrical Engineering from Washington University in St. Louis (WashU) and previously worked as a Research Scientist Intern at Meta Reality Labs.
+I am <strong>Junyi Zhao</strong>, a Postdoctoral Scholar at Stanford University, working with Prof. <a href="https://baogroup.stanford.edu/" target="_blank" rel="noopener noreferrer">Zhenan Bao</a>. I received my Ph.D. in Electrical Engineering from Washington University in St. Louis (WashU) and previously worked as a Research Scientist Intern at Meta Reality Labs.
 </p>
 
 <p style="color: #555555; font-size: 16px;">
