@@ -1,3 +1,4 @@
+
 ---
 title: "TouchpadAnyWear: textile-integrated tactile sensing for embodied interaction"
 
@@ -9,14 +10,48 @@ permalink: /research/touchpadanywear/
 ---
 
 <p style="text-align: center;">
-
   <img src="/images/research/figure_touchpadanywear.png"
-
        alt="TouchpadAnyWear textile-integrated tactile sensing for embodied interaction"
-
-       style="max-width: 600px; width: 100%; height: auto;">
-
+       style="max-width: 900px; width: 100%; height: auto;">
 </p>
+
+<style>
+  .touchpad-gif-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+    max-width: 900px;
+    margin: 1.5rem auto 2rem auto;
+  }
+
+  .touchpad-gif-grid img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 4px;
+  }
+
+  @media (max-width: 700px) {
+    .touchpad-gif-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 450px) {
+    .touchpad-gif-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<div class="touchpad-gif-grid">
+  <img src="/images/research/touchpad_1.gif" alt="TouchpadAnyWear demo 1">
+  <img src="/images/research/touchpad_2.gif" alt="TouchpadAnyWear demo 2">
+  <img src="/images/research/touchpad_3.gif" alt="TouchpadAnyWear demo 3">
+  <img src="/images/research/touchpad_4.gif" alt="TouchpadAnyWear demo 4">
+  <img src="/images/research/touchpad_5.gif" alt="TouchpadAnyWear demo 5">
+  <img src="/images/research/touchpad_6.gif" alt="TouchpadAnyWear demo 6">
+</div>
 
 **Junyi Zhao**, P. Preechayasomboon, T. Christensen, A. Memar, Z. Shen, N. Colonnese, M. Knbeis, M. Zhu  
 
