@@ -8,7 +8,7 @@ permalink: /research/handwriting-perovskite/
 <p style="text-align: center;">
   <img src="/images/research/figure_Hand_writing_perovskite.png"
        alt="Handwriting perovskite optoelectronic devices on diverse substrates"
-       style="max-width: 400px; width: 100%; height: auto;">
+       style="max-width: 600px; width: 100%; height: auto;">
 </p>
 
 

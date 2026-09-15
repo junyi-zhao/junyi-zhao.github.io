@@ -8,7 +8,7 @@ permalink: /research/3d-etextile/
 <p style="text-align: center;">
   <img src="/images/research/figure_3D_textile_new.png"
        alt="Wearable 3D E-textile for electrophysiology in motion and obstetric care"
-       style="max-width: 400px; width: 100%; height: auto;">
+       style="max-width: 600px; width: 100%; height: auto;">
 </p>
 
 **Junyi Zhao**, et al.  

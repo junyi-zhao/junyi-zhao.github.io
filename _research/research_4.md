@@ -8,7 +8,7 @@ permalink: /research/sponge-sensor/
 <p style="text-align: center;">
   <img src="/images/research/figure_Soft_Sponge.png"
        alt="Soft sponge sensor for multimodal sensing"
-       style="max-width: 400px; width: 100%; height: auto;">
+       style="max-width: 600px; width: 100%; height: auto;">
 </p>
 
 L. W. Lo, **J. Zhao**, et al.  
