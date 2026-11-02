@@ -58,6 +58,8 @@ My research focuses on <strong>human-centered soft electronics</strong> for sens
     tenure-track Assistant Professor, with a joint appointment in the
     Department of Mechanical Engineering (ME) and the Department of
     Electrical &amp; Computer Engineering (ECE).
+    We welcome applicants from Mechanical engineering, Electrical & Computer engineering, 
+    Materials science, Bioengineering, Biomedical engineering, Computer science, AI, and related disciplines.
     <a href="https://jzhao-lab.github.io/join](https://jzhao-lab.github.io/join"
        target="_blank"
        rel="noopener noreferrer">Join us</a>
