@@ -53,6 +53,7 @@ My research focuses on <strong>human-centered soft electronics</strong> for sens
 </p>
 
 
+{% comment %}
 <div class="faculty-announcement">
   <p>
     I will join the University of Wisconsin–Madison in Fall 2027 as a
@@ -70,7 +71,7 @@ My research focuses on <strong>human-centered soft electronics</strong> for sens
        rel="noopener noreferrer">Join us</a>
   </p>
 </div>
-
+{% endcomment %}
 
 ## Research interests
 
