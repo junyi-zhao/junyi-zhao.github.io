@@ -52,19 +52,25 @@ I am <strong>Junyi Zhao</strong>, a Postdoctoral Scholar at Stanford University,
 My research focuses on <strong>human-centered soft electronics</strong> for sensing, perception, and feedback, spanning innovations in materials, devices, advanced manufacturing, system integrations, multimodal data analytics, and translational deployment.
 </p>
 
+
 <div class="faculty-announcement">
   <p>
     I will join the University of Wisconsin–Madison in Fall 2027 as a
     tenure-track Assistant Professor, with a joint appointment in the
     Department of Mechanical Engineering (ME) and the Department of
     Electrical &amp; Computer Engineering (ECE).
-    We welcome applicants from Mechanical engineering, Electrical & Computer engineering, 
-    Materials science, Bioengineering, Biomedical engineering, Computer science, AI, and related disciplines.
-    <a href="https://jzhao-lab.github.io/join](https://jzhao-lab.github.io/join"
+  </p>
+
+  <p style="margin-top: 0.75rem;">
+    We welcome applicants from mechanical engineering, electrical and
+    computer engineering, materials science, bioengineering, biomedical
+    engineering, computer science, AI, and related disciplines.
+    <a href="https://jzhao-lab.github.io/join"
        target="_blank"
        rel="noopener noreferrer">Join us</a>
   </p>
 </div>
+
 
 ## Research interests
 
