@@ -20,8 +20,29 @@ redirect_from:
   .page__content {
     max-width: 980px;
   }
-</style>
 
+  .faculty-announcement {
+    margin: 1.25rem 0 1.75rem;
+    padding: 0.9rem 1.1rem;
+    border: 1px solid #d8d8d8;
+    border-left: 4px solid #c5050c;
+    border-radius: 6px;
+    background-color: #fafafa;
+    color: #555555;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .faculty-announcement p {
+    margin: 0;
+  }
+
+  .faculty-announcement a {
+    color: #c5050c;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+</style>
 
 <p style="color: #555555; font-size: 16px;">
 I am <strong>Junyi Zhao</strong>, a Postdoctoral Scholar at Stanford University, working with Prof. <a href="https://baogroup.stanford.edu/" target="_blank" rel="noopener noreferrer">Zhenan Bao</a>. I received my Ph.D. in Electrical Engineering from Washington University in St. Louis (WashU) and previously worked as a Research Scientist Intern at Meta Reality Labs.
@@ -31,37 +52,51 @@ I am <strong>Junyi Zhao</strong>, a Postdoctoral Scholar at Stanford University,
 My research focuses on <strong>human-centered soft electronics</strong> for sensing, perception, and feedback, spanning innovations in materials, devices, advanced manufacturing, system integrations, multimodal data analytics, and translational deployment.
 </p>
 
+<div class="faculty-announcement">
+  <p>
+    I will join the University of Wisconsin–Madison in Fall 2027 as a
+    tenure-track Assistant Professor, with a joint appointment in the
+    Department of Mechanical Engineering (ME) and the Department of
+    Electrical &amp; Computer Engineering (ECE).
+    <a href="https://id-preview--f33146b3-794a-4ded-a807-bf41984756ca.lovable.app/join"
+       target="_blank"
+       rel="noopener noreferrer">Join us</a>
+  </p>
+</div>
 
 ## Research interests
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
 Bio-Materials, Bio-Interface, and Bio-Electronics for translational healthcare
 </p>
-<p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
+
+<p style="color: #555555; font-size: 16px; font-style: italic; margin-top: 0;">
 Real-time multimodal physiological monitoring in both everyday and clinical settings
 </p>
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
 Soft optoelectronics
 </p>
-<p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
+
+<p style="color: #555555; font-size: 16px; font-style: italic; margin-top: 0;">
 Flexible/stretchable light-emitting diodes, photodetectors, solar cells, lasers, and related systems
 </p>
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
 Embodied human–computer interactions
 </p>
-<p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
+
+<p style="color: #555555; font-size: 16px; font-style: italic; margin-top: 0;">
 Input devices, tactile interfaces, haptic systems, and human–machine interactions
 </p>
 
 <p style="color: #3e3c3c; font-size: 16px; font-weight: 600; margin-bottom: 0.3em;">
 Neurological micro- and nano-electronics
 </p>
-<p style="color: #555555; font-size: 16px;  font-style: italic; margin-top: 0;">
+
+<p style="color: #555555; font-size: 16px; font-style: italic; margin-top: 0;">
 Bioinspired and interactive electronic systems at the micro- and nanoscale
 </p>
-
 
 ## Education
 
@@ -94,7 +129,6 @@ Research Scientist Intern, Meta Reality Labs, USA
 Visiting Research Assistant, Electrical &amp; Computer Engineering, University of Houston, USA
 </p>
 
-
 ## Selected recent news
 
 <p>
@@ -125,24 +159,25 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
   <span class="news-type-icon award">
     <i class="fas fa-award"></i>
   </span>
-  
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    Selected for the <strong>2024 CAS Future Leaders</strong> 
+    Selected for the <strong>2024 CAS Future Leaders</strong>
   </span>
 </p>
 
 <p>
-    <span class="news-type-icon paper">
+  <span class="news-type-icon paper">
     <i class="fas fa-file-alt"></i>
   </span>
- 
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     First-authored paper published at <strong>ACM UIST'24</strong> on embodied E-textile tactile-interface for robust gesture recognition
   </span>
 </p>
-
 
 <p class="recent-news-item">
   <span class="news-type-icon paper">
@@ -156,25 +191,25 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
   </span>
 </p>
 
-
 <p>
   <span class="news-type-icon award">
     <i class="fas fa-award"></i>
   </span>
 
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Apr 2024</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     Received the Outstanding Doctoral Dissertation Award
   </span>
 </p>
 
 <p>
-  
-    <span class="news-type-icon media">
+  <span class="news-type-icon media">
     <i class="fas fa-newspaper"></i>
   </span>
-  
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Jan 2024</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;">HEC Media</span> featured our handwritten optoelectronics work in a news story and interview video.
     <a href="https://hecmedia.org/posts/engineering-new-ink-for-ballpoint-pens-to-write-custom-leds-on-any-surface-for-high-tech-adavantages" target="_blank" rel="noopener noreferrer">[News]</a>
@@ -183,11 +218,12 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
-   <span class="news-type-icon media">
+  <span class="news-type-icon media">
     <i class="fas fa-newspaper"></i>
   </span>
- 
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Oct 2023</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;"><strong>Nature Photonics</strong> News &amp; Views</span> highlighted our handwritten perovskite optoelectronic platform.
     <a href="https://www.nature.com/articles/s41566-023-01310-0" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -195,12 +231,12 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
-  
-    <span class="news-type-icon media">
+  <span class="news-type-icon media">
     <i class="fas fa-newspaper"></i>
   </span>
-  
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Sep 2023</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;"><strong>Physics Magazine</strong>, American Physical Society</span> featured our work in “Handwritten LEDs Light Up the Page.”
     <a href="https://physics.aps.org/articles/v16/158" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -208,12 +244,12 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
-  
-    <span class="news-type-icon media">
+  <span class="news-type-icon media">
     <i class="fas fa-newspaper"></i>
   </span>
 
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;"><strong>Nature</strong> Research Highlight</span> featured our work in “A rainbow of LEDs adorns objects at the stroke of a pen.”
     <a href="https://www.nature.com/articles/d41586-023-02655-w" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -221,12 +257,12 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
-  
-    <span class="news-type-icon media">
+  <span class="news-type-icon media">
     <i class="fas fa-newspaper"></i>
   </span>
-  
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;">Optics &amp; Photonics News (Optica)</span> featured our work in “Bright Idea? Write It with Perovskite.”
     <a href="https://www.optica-opn.org/home/newsroom/2023/august/bright_idea_write_it_with_perovskite/?feed=News" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -234,12 +270,12 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
-  
-    <span class="news-type-icon media">
+  <span class="news-type-icon media">
     <i class="fas fa-newspaper"></i>
   </span>
-  
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;">WashU The Source</span> featured our work in “Simple ballpoint pen can write custom LEDs.”
     <a href="https://source.washu.edu/2023/08/simple-ballpoint-pen-can-write-custom-leds/" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -247,11 +283,12 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
-    <span class="news-type-icon media">
+  <span class="news-type-icon media">
     <i class="fas fa-newspaper"></i>
   </span>
-  
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;">EurekAlert!</span> featured our work in “Simple ballpoint pen can write custom LEDs.”
     <a href="https://www.eurekalert.org/news-releases/998307" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -259,11 +296,12 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
-   <span class="news-type-icon paper">
+  <span class="news-type-icon paper">
     <i class="fas fa-file-alt"></i>
   </span>
-  
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     First-authored paper published in <strong>Nature Photonics</strong> on handwritten soft perovskite optoelectronics
   </span>
@@ -273,8 +311,9 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
   <span class="news-type-icon paper">
     <i class="fas fa-file-alt"></i>
   </span>
- 
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2021</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     First-authored paper published in <strong>Advanced Materials</strong> on printed light-emitting diodes (LEDs)
   </span>
@@ -285,7 +324,6 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
     For a full list, please visit the <a href="/news/">News</a> and <a href="/awards/">Awards</a> pages.
   </span>
 </p>
-
 
 <div class="visitor-map">
   <script
